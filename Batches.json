@@ -1,7 +1,9 @@
 {
   "Batches": [
+    
     {
-      "Upcoming": [
+      "Started": [
+        
         {
           "courseName": "JEE",
           "startDate": "16-03-2019",
@@ -30,24 +32,19 @@
           "type": "Upcoming",
           "facultyName": "Arun"
         }
-      ]
-    },
-    {
-      "Started": [
+        ,
+
         {
-          "courseName": "JDBC",
-          "startDate": "11-03-2019",
+          "courseName": "Java",
+          "startDate": "17-01-2019",
           "time": "8:00 AM",
           "type": "Started",
           "facultyName": "Asha"
-        },
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "09-02-2019",
-          "time": "9:30 AM",
-          "type": "Started",
-          "facultyName": "Devendra"
-        },
+        }
+      ]
+    },
+    {
+      "Ongoing": [
         {
           "courseName": "Web Technologies",
           "startDate": "09-03-2019",
@@ -61,7 +58,11 @@
           "time": "9:30 AM",
           "type": "Started",
           "facultyName": "Srinivas"
-        },
+        }
+      ]
+    },
+    {
+      "Completed": [
         {
           "courseName": "SQL",
           "startDate": "02-02-2019",
@@ -70,23 +71,19 @@
           "facultyName": "Varun"
         },
         {
-          "courseName": "Angular 6",
-          "startDate": "04-02-2019",
-          "time": "6:00 PM",
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "09-02-2019",
+          "time": "9:30 AM",
           "type": "Started",
-          "facultyName": "Arun"
+          "facultyName": "Devendra"
         },
         {
-          "courseName": "Java",
-          "startDate": "17-01-2019",
+          "courseName": "JDBC",
+          "startDate": "11-03-2019",
           "time": "8:00 AM",
           "type": "Started",
-          "facultyName": "Ashok"
-        }
-      ]
-    },
-    {
-      "Ongoing": [
+          "facultyName": "Asha"
+        },
         {
           "courseName": "Java",
           "startDate": "03-12-2018",
@@ -121,11 +118,7 @@
           "time": "9:30 AM",
           "type": "Started",
           "facultyName": "Harsha"
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "22-11-2018",
