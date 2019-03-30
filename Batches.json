@@ -24,6 +24,13 @@
           "facultyName": "Omkar"
         },
         {
+          "courseName": "REST",
+          "startDate": "30-03-2019",
+          "time": "2:00 PM",
+          "type": "Started",
+          "facultyName": "Asha"
+        },
+        {
           "courseName": "Angular 6",
           "startDate": "23-03-2019",
           "time": "10:00 AM",
