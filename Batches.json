@@ -1,8 +1,8 @@
 {
   "Batches": [
     {
-      "Upcoming": [
-        {
+      "Started": [
+         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "27-04-2019",
           "time": "10:00 AM",
@@ -15,11 +15,7 @@
           "time": "10:00 AM",
           "type": "Upcoming",
           "facultyName": "JEE"
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "JEE",
           "startDate": "16-03-2019",
