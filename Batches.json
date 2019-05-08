@@ -1,8 +1,40 @@
 {
   "Batches": [
     {
+      "Upcoming": [
+        {
+          "courseName": "JAVA",
+          "startDate": "06-06-2019",
+          "time": "8:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Ashok"
+        },
+        {
+          "courseName": "SQL",
+          "startDate": "18-05-2019",
+          "time": "2:00 PM",
+          "type": "Upcoming",
+          "facultyName": "Varun"
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "16-05-2019",
+          "time": "8:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Omkar"
+        },
+        {
+          "courseName": "REST",
+          "startDate": "16-05-2019",
+          "time": "8:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Rest"
+        }
+      ]
+    },
+    {
       "Started": [
-         {
+        {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "27-04-2019",
           "time": "10:00 AM",
@@ -40,7 +72,8 @@
           "time": "8:00 AM",
           "type": "Ongoing",
           "facultyName": "Asha"
-        }, {
+        },
+        {
           "courseName": "JAVA",
           "startDate": "21-03-2019",
           "time": "8:00 AM",
