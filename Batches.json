@@ -47,6 +47,17 @@
           "time": "10:00 AM",
           "type": "Started",
           "facultyName": "JEE"
+        }
+      ]
+    },
+    {
+      "Ongoing": [
+        {
+          "courseName": "Java",
+          "startDate": "17-01-2019",
+          "time": "8:00 AM",
+          "type": "Ongoing",
+          "facultyName": "Asha"
         },
         {
           "courseName": "JEE",
@@ -61,17 +72,6 @@
           "time": "10:00 AM",
           "type": "Started",
           "facultyName": "Arun"
-        }
-      ]
-    },
-    {
-      "Ongoing": [
-        {
-          "courseName": "Java",
-          "startDate": "17-01-2019",
-          "time": "8:00 AM",
-          "type": "Ongoing",
-          "facultyName": "Asha"
         },
         {
           "courseName": "JAVA",
@@ -86,13 +86,6 @@
           "time": "8:00 AM",
           "type": "Ongoing",
           "facultyName": "Omkar"
-        },
-        {
-          "courseName": "REST",
-          "startDate": "30-03-2019",
-          "time": "2:00 PM",
-          "type": "Ongoing",
-          "facultyName": "Asha"
         }
       ]
     },
@@ -104,6 +97,13 @@
           "time": "8:00 AM",
           "type": "Completed",
           "facultyName": "Arun"
+        },
+        {
+          "courseName": "REST",
+          "startDate": "30-03-2019",
+          "time": "2:00 PM",
+          "type": "Ongoing",
+          "facultyName": "Asha"
         },
         {
           "courseName": "JAVA",
