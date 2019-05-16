@@ -10,6 +10,13 @@
           "facultyName": "Omkar"
         },
         {
+          "courseName": "JAVA",
+          "startDate": "06-06-2019",
+          "time": "08:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Ashok"
+        },
+        {
           "courseName": "SQL",
           "startDate": "18-05-2019",
           "time": "2:00 PM",
@@ -31,21 +38,21 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "16-05-2019",
           "time": "8:00 AM",
-          "type": "Started",
+          "type": "Upcoming",
           "facultyName": "Omkar"
         },
         {
           "courseName": "REST",
           "startDate": "16-05-2019",
           "time": "8:00 AM",
-          "type": "Started",
+          "type": "Upcoming",
           "facultyName": "Rest"
         },
         {
           "courseName": "JAVA",
           "startDate": "06-06-2019",
           "time": "8:00 AM",
-          "type": "Started",
+          "type": "Upcoming",
           "facultyName": "Ashok"
         },
         {
@@ -77,14 +84,14 @@
           "courseName": "JEE",
           "startDate": "16-03-2019",
           "time": "8:00 AM",
-          "type": "Ongoing",
+          "type": "Started",
           "facultyName": "Ashok"
         },
         {
           "courseName": "Angular 6",
           "startDate": "23-03-2019",
           "time": "10:00 AM",
-          "type": "Ongoing",
+          "type": "Started",
           "facultyName": "Arun"
         },
         {
@@ -93,18 +100,18 @@
           "time": "8:00 AM",
           "type": "Ongoing",
           "facultyName": "Ashok"
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "21-03-2019",
+          "time": "8:00 AM",
+          "type": "Ongoing",
+          "facultyName": "Omkar"
         }
       ]
     },
     {
       "Completed": [
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "21-03-2019",
-          "time": "8:00 AM",
-          "type": "Completed",
-          "facultyName": "Omkar"
-        },
         {
           "courseName": "Web Technologies",
           "startDate": "09-03-2019",
@@ -116,7 +123,7 @@
           "courseName": "REST",
           "startDate": "30-03-2019",
           "time": "2:00 PM",
-          "type": "Completed",
+          "type": "Ongoing",
           "facultyName": "Asha"
         },
         {
