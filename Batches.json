@@ -38,21 +38,21 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "16-05-2019",
           "time": "8:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Omkar"
         },
         {
           "courseName": "REST",
           "startDate": "16-05-2019",
           "time": "8:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Rest"
         },
         {
           "courseName": "JAVA",
           "startDate": "06-06-2019",
           "time": "8:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Ashok"
         },
         {
@@ -84,14 +84,14 @@
           "courseName": "JEE",
           "startDate": "16-03-2019",
           "time": "8:00 AM",
-          "type": "Started",
+          "type": "Ongoing",
           "facultyName": "Ashok"
         },
         {
           "courseName": "Angular 6",
           "startDate": "23-03-2019",
           "time": "10:00 AM",
-          "type": "Started",
+          "type": "Ongoing",
           "facultyName": "Arun"
         },
         {
