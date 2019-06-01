@@ -17,21 +17,21 @@
           "courseName": "Angular 6",
           "startDate": "01-06-2019",
           "time": "10:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Omkar"
         },
         {
           "courseName": "SQL",
           "startDate": "18-05-2019",
           "time": "2:00 PM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Varun"
         },
         {
           "courseName": "JAVA",
           "startDate": "25-05-2019",
           "time": "10:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Srinivas"
         },
         {
