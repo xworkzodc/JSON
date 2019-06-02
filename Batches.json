@@ -47,13 +47,6 @@
           "time": "10:00 AM",
           "type": "Started",
           "facultyName": "Devendra"
-        },
-        {
-          "courseName": "JEE",
-          "startDate": "20-04-2019",
-          "time": "10:00 AM",
-          "type": "Started",
-          "facultyName": "JEE"
         }
       ]
     },
@@ -98,6 +91,14 @@
     },
     {
       "Completed": [
+        
+        {
+          "courseName": "JEE",
+          "startDate": "20-04-2019",
+          "time": "10:00 AM",
+          "type": "Completed",
+          "facultyName": "JEE"
+        },
         {
           "courseName": "REST",
           "startDate": "16-05-2019",
