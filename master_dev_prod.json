@@ -3,5 +3,6 @@
       "batches":"https://raw.githubusercontent.com/xworkzodc/JSON/master/Batches.json",
       "gallery":"https://raw.githubusercontent.com/xworkzodc/Gallery/master/Gallery.json",
       "notification":"https://raw.githubusercontent.com/xworkzodc/JSON/master/notification.json",
-      "facultyImage":"https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/"
+      "facultyImage":"https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/",
+      "popUp":"https://raw.githubusercontent.com/xworkzodc/JSON/master/popNotification.json"
 }
