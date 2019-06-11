@@ -6,14 +6,14 @@
           "courseName": "JAVA",
           "startDate": "06-06-2019",
           "time": "08:00 AM",
-          "type": "Free Course, Register still open",
+          "type": "Free Course, Registrations still open",
           "facultyName": "Ashok"
         },
         {
           "courseName": "Angular 6",
           "startDate": "01-06-2019",
           "time": "10:00 AM",
-          "type": "Free Course, Register close",
+          "type": "Free Course, Registration close",
           "facultyName": "Omkar"
         },
         {
@@ -27,7 +27,7 @@
           "courseName": "JAVA",
           "startDate": "25-05-2019",
           "time": "10:00 AM",
-          "type": "Free Course, Register still open",
+          "type": "Free Course, Registrations still open",
           "facultyName": "Srinivas"
         },
         {
@@ -63,30 +63,30 @@
           "facultyName": "Ashok"
         },
         {
-          "courseName": "Angular 6",
-          "startDate": "23-03-2019",
-          "time": "10:00 AM",
-          "type": "Ongoing",
-          "facultyName": "Arun"
-        },
-        {
           "courseName": "JAVA",
           "startDate": "21-03-2019",
           "time": "8:00 AM",
           "type": "Ongoing",
           "facultyName": "Ashok"
-        },
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "21-03-2019",
-          "time": "8:00 AM",
-          "type": "Ongoing",
-          "facultyName": "Omkar"
         }
       ]
     },
     {
       "Completed": [
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "21-03-2019",
+          "time": "8:00 AM",
+          "type": "Completed",
+          "facultyName": "Omkar"
+        },
+        {
+          "courseName": "Angular 6",
+          "startDate": "23-03-2019",
+          "time": "10:00 AM",
+          "type": "Completed",
+          "facultyName": "Arun"
+        },
         {
           "courseName": "JEE",
           "startDate": "20-04-2019",
