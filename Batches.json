@@ -1,18 +1,14 @@
 {
   "Batches": [
     {
-      "Upcoming": [
+      "Started": [
         {
           "courseName": "JAVA",
           "startDate": "06-06-2019",
           "time": "08:00 AM",
           "type": "Free Course, Register Soon",
           "facultyName": "Ashok"
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "Angular 6",
           "startDate": "01-06-2019",
@@ -91,7 +87,6 @@
     },
     {
       "Completed": [
-        
         {
           "courseName": "JEE",
           "startDate": "20-04-2019",
