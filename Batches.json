@@ -7,42 +7,48 @@
           "startDate": "06-06-2019",
           "time": "08:00 AM",
           "type": "Free Course, Registrations still open",
-          "facultyName": "Ashok"
+          "facultyName": "Ashok",
+          "placed": 0
         },
         {
           "courseName": "Angular 6",
           "startDate": "01-06-2019",
           "time": "10:00 AM",
           "type": "Free Course, Registrations closed",
-          "facultyName": "Omkar"
+          "facultyName": "Omkar",
+          "placed": 0
         },
         {
           "courseName": "SQL",
           "startDate": "18-05-2019",
           "time": "2:00 PM",
           "type": "Started",
-          "facultyName": "Varun"
+          "facultyName": "Varun",
+          "placed": 0
         },
         {
           "courseName": "JAVA",
           "startDate": "25-05-2019",
           "time": "10:00 AM",
           "type": "Free Course, Registrations still open",
-          "facultyName": "Srinivas"
+          "facultyName": "Srinivas",
+          "placed": 0
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "16-05-2019",
           "time": "8:00 AM",
           "type": "Started",
-          "facultyName": "Omkar"
+          "facultyName": "Omkar",
+          "placed": 0
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "27-04-2019",
           "time": "10:00 AM",
           "type": "Started",
-          "facultyName": "Devendra"
+          "facultyName": "Devendra",
+          "placed": 0
         }
       ]
     },
@@ -53,21 +59,24 @@
           "startDate": "17-01-2019",
           "time": "8:00 AM",
           "type": "Ongoing",
-          "facultyName": "Asha"
+          "facultyName": "Asha",
+          "placed": 0
         },
         {
           "courseName": "JEE",
           "startDate": "16-03-2019",
           "time": "8:00 AM",
           "type": "Ongoing",
-          "facultyName": "Ashok"
+          "facultyName": "Ashok",
+          "placed": 0
         },
         {
           "courseName": "JAVA",
           "startDate": "21-03-2019",
           "time": "8:00 AM",
           "type": "Ongoing",
-          "facultyName": "Ashok"
+          "facultyName": "Ashok",
+          "placed": 0
         }
       ]
     },
@@ -78,140 +87,160 @@
           "startDate": "21-03-2019",
           "time": "8:00 AM",
           "type": "Completed",
-          "facultyName": "Omkar"
+          "facultyName": "Omkar",
+          "placed": 0
         },
         {
           "courseName": "Angular 6",
           "startDate": "23-03-2019",
           "time": "10:00 AM",
           "type": "Completed",
-          "facultyName": "Arun"
+          "facultyName": "Arun",
+          "placed": 0
         },
         {
           "courseName": "JEE",
           "startDate": "20-04-2019",
           "time": "10:00 AM",
           "type": "Completed",
-          "facultyName": "JEE"
+          "facultyName": "JEE",
+          "placed": 0
         },
         {
           "courseName": "REST",
           "startDate": "16-05-2019",
           "time": "8:00 AM",
           "type": "Completed",
-          "facultyName": "Rest"
+          "facultyName": "Rest",
+          "placed": 0
         },
         {
           "courseName": "Web Technologies",
           "startDate": "09-03-2019",
           "time": "8:00 AM",
           "type": "Completed",
-          "facultyName": "Arun"
+          "facultyName": "Arun",
+          "placed": 0
         },
         {
           "courseName": "REST",
           "startDate": "30-03-2019",
           "time": "2:00 PM",
           "type": "Completed",
-          "facultyName": "Asha"
+          "facultyName": "Asha",
+          "placed": 0
         },
         {
           "courseName": "JAVA",
           "startDate": "09-02-2019",
           "time": "9:30 AM",
           "type": "Completed",
-          "facultyName": "Srinivas"
+          "facultyName": "Srinivas",
+          "placed": 0
         },
         {
           "courseName": "SQL",
           "startDate": "02-02-2019",
           "time": "11:00 AM",
           "type": "Completed",
-          "facultyName": "Varun"
+          "facultyName": "Varun",
+          "placed": 0
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "09-02-2019",
           "time": "9:30 AM",
           "type": "Completed",
-          "facultyName": "Devendra"
+          "facultyName": "Devendra",
+          "placed": 2
         },
         {
           "courseName": "JDBC",
           "startDate": "11-03-2019",
           "time": "8:00 AM",
           "type": "Completed",
-          "facultyName": "Asha"
+          "facultyName": "Asha",
+          "placed": 0
         },
         {
           "courseName": "Java",
           "startDate": "03-12-2018",
           "time": "8:00 AM",
           "type": "Completed",
-          "facultyName": "Asha"
+          "facultyName": "Asha",
+          "placed": 3
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "07-01-2019",
           "time": "8:00 AM",
           "type": "Completed",
-          "facultyName": "Omkar"
+          "facultyName": "Omkar",
+          "placed": 6
         },
         {
           "courseName": "Java",
           "startDate": "15-12-2018",
           "time": "2:00 PM",
           "type": "Completed",
-          "facultyName": "Srinivas"
+          "facultyName": "Srinivas",
+          "placed": 2
         },
         {
           "courseName": "Angular 6",
           "startDate": "04-02-2019",
           "time": "6:00 PM",
           "type": "Completed",
-          "facultyName": "Arun"
+          "facultyName": "Arun",
+          "placed": 4
         },
         {
           "courseName": "Angular 6",
           "startDate": "12-01-2019",
           "time": "9:30 AM",
           "type": "Completed",
-          "facultyName": "Harsha"
+          "facultyName": "Harsha",
+          "placed": 0
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "22-11-2018",
           "time": "8:00 AM",
           "type": "Completed",
-          "facultyName": "Omkar"
+          "facultyName": "Omkar",
+          "placed": 10
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "15-12-2018",
           "time": "2:00 PM",
           "type": "Completed",
-          "facultyName": "Devendra"
+          "facultyName": "Devendra",
+          "placed": 2
         },
         {
           "courseName": "Angular 6",
           "startDate": "01-12-2018",
           "time": "9:30 AM",
           "type": "Completed",
-          "facultyName": "Harsha"
+          "facultyName": "Harsha",
+          "placed": 4
         },
         {
           "courseName": "REST",
           "startDate": "02-02-2019",
           "time": "2:00 PM",
           "type": "Completed",
-          "facultyName": "Arun"
+          "facultyName": "Arun",
+          "placed": 0
         },
         {
           "courseName": "Web Technologies",
           "startDate": "18-12-2018",
           "time": "9:30 AM",
           "type": "Completed",
-          "facultyName": "Arun"
+          "facultyName": "Arun",
+          "placed": 0
         }
       ]
     }
