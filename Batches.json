@@ -1,12 +1,54 @@
 {
   "Batches": [
     {
+      "Upcoming": [
+        {
+          "courseName": "JEE",
+          "startDate": "06-07-2019",
+          "time": "10:00 AM",
+          "type": "Free Course, Registrations are open",
+          "facultyName": "Pavan",
+          "placed": 0
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "13-07-2019",
+          "time": "10:00 AM",
+          "type": "Free Course, Registrations are open",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
+        {
+          "courseName": "JAVA",
+          "startDate": "18-07-2019",
+          "time": "08:00 AM",
+          "type": "Free Course, Registrations are open",
+          "facultyName": "Ashok",
+          "placed": 0
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "22-07-2019",
+          "time": "08:00 AM",
+          "type": "Free Course, Registrations are open",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Angular 7",
+          "startDate": "27-07-2019",
+          "time": "10:00 AM",
+          "type": "Free Course, Registrations are open",
+          "facultyName": "Omkar",
+          "placed": 0
+        }
+      ],
       "Started": [
         {
           "courseName": "JAVA",
           "startDate": "06-06-2019",
           "time": "08:00 AM",
-          "type": "Free Course, Registrations still open",
+          "type": "Started",
           "facultyName": "Ashok",
           "placed": 0
         },
@@ -14,7 +56,7 @@
           "courseName": "Angular 6",
           "startDate": "01-06-2019",
           "time": "10:00 AM",
-          "type": "Free Course, Registrations closed",
+          "type": "Started",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -30,7 +72,7 @@
           "courseName": "JAVA",
           "startDate": "25-05-2019",
           "time": "10:00 AM",
-          "type": "Free Course, Registrations still open",
+          "type": "Started",
           "facultyName": "Srinivas",
           "placed": 0
         },
@@ -53,12 +95,12 @@
       ]
     },
     {
-      "Ongoing": [
+      "Completed": [
         {
           "courseName": "Java",
           "startDate": "17-01-2019",
           "time": "8:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Asha",
           "placed": 0
         },
@@ -66,7 +108,7 @@
           "courseName": "JEE",
           "startDate": "16-03-2019",
           "time": "8:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Ashok",
           "placed": 0
         },
@@ -74,14 +116,10 @@
           "courseName": "JAVA",
           "startDate": "21-03-2019",
           "time": "8:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Ashok",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "21-03-2019",
