@@ -3,22 +3,6 @@
     {
       "Upcoming": [
         {
-          "courseName": "JEE",
-          "startDate": "06-07-2019",
-          "time": "10:00 AM",
-          "type": "Free Course, Registrations are open",
-          "facultyName": "Pavan",
-          "placed": 0
-        },
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "13-07-2019",
-          "time": "10:00 AM",
-          "type": "Free Course, Registrations are open",
-          "facultyName": "Devendra",
-          "placed": 0
-        },
-        {
           "courseName": "JAVA",
           "startDate": "18-07-2019",
           "time": "08:00 AM",
@@ -46,6 +30,22 @@
     },
     {
       "Started": [
+        {
+          "courseName": "JEE",
+          "startDate": "06-07-2019",
+          "time": "10:00 AM",
+          "type": "Started",
+          "facultyName": "Pavan",
+          "placed": 0
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "13-07-2019",
+          "time": "10:00 AM",
+          "type": "Free Course, Registrations are still open",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
         {
           "courseName": "JAVA",
           "startDate": "06-06-2019",
@@ -85,19 +85,19 @@
           "type": "Started",
           "facultyName": "Omkar",
           "placed": 0
-        },
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "27-04-2019",
-          "time": "10:00 AM",
-          "type": "Started",
-          "facultyName": "Devendra",
-          "placed": 0
         }
       ]
     },
     {
       "Completed": [
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "27-04-2019",
+          "time": "10:00 AM",
+          "type": "Completed",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
         {
           "courseName": "Java",
           "startDate": "17-01-2019",
