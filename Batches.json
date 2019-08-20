@@ -2,11 +2,47 @@
   "Batches": [
     {
       "Upcoming": [
+          {
+            "courseName": "SQL",
+            "startDate": "24-08-2019",
+            "time": "03:00 PM",
+            "type": "Upcoming",
+            "facultyName": "Varun",
+            "placed": 0
+          },
+          {
+            "courseName": "Web Technologies",
+            "startDate": "24-08-2019",
+            "time": "11:00 AM",
+            "type": "Upcoming",
+            "facultyName": "Arun",
+            "placed": 0
+          },
+          {
+            "courseName": "Java",
+            "startDate": "05-09-2019",
+            "time": "08:00 AM",
+            "type": "Free Course, Registrations are open",
+            "facultyName": "Ashok",
+            "placed": 0
+          },
+          {
+            "courseName": "JEE",
+            "startDate": "29-08-2019",
+            "time": "10:00 AM",
+            "type": "Upcoming",
+            "facultyName": "Devendra",
+            "placed": 0
+          }
+      ]
+    },
+    {
+      "Started": [ 
         {
           "courseName": "JAVA",
           "startDate": "18-07-2019",
           "time": "08:00 AM",
-          "type": "Free Course, Registrations are open",
+          "type": "Started",
           "facultyName": "Ashok",
           "placed": 0
         },
@@ -14,7 +50,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "22-07-2019",
           "time": "08:00 AM",
-          "type": "Free Course, Registrations are open",
+          "type": "Started",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -22,14 +58,10 @@
           "courseName": "Angular 7",
           "startDate": "27-07-2019",
           "time": "10:00 AM",
-          "type": "Free Course, Registrations are open",
+          "type": "Started",
           "facultyName": "Omkar",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "JEE",
           "startDate": "06-07-2019",
