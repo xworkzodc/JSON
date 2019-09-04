@@ -90,7 +90,7 @@
           "courseName": "JEE",
           "startDate": "06-07-2019",
           "time": "10:00 AM",
-          "type": "Started",
+          "type": "Completed",
           "facultyName": "Pavan",
           "placed": 0
         },
@@ -98,7 +98,7 @@
           "courseName": "Angular 6",
           "startDate": "01-06-2019",
           "time": "10:00 AM",
-          "type": "Started",
+          "type": "Completed",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -106,7 +106,7 @@
           "courseName": "JAVA",
           "startDate": "25-05-2019",
           "time": "10:00 AM",
-          "type": "Started",
+          "type": "Completed",
           "facultyName": "Srinivas",
           "placed": 0
         },
@@ -114,7 +114,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "16-05-2019",
           "time": "8:00 AM",
-          "type": "Started",
+          "type": "Completed",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -122,7 +122,7 @@
           "courseName": "SQL",
           "startDate": "18-05-2019",
           "time": "2:00 PM",
-          "type": "Started",
+          "type": "Completed",
           "facultyName": "Varun",
           "placed": 0
         },
