@@ -1,12 +1,12 @@
 {
   "Batches": [
     {
-      "Upcoming": [
-        {
+      "Started": [
+         {
           "courseName": "Java",
           "startDate": "05-09-2019",
           "time": "08:00 AM",
-          "type": "Free Course, Registrations are open",
+          "type": "Started",
           "facultyName": "Ashok",
           "placed": 0
         },
@@ -14,14 +14,10 @@
           "courseName": "Web Technologies",
           "startDate": "07-09-2019",
           "time": "11:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Arun",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "SQL",
           "startDate": "24-08-2019",
