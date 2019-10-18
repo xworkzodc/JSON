@@ -1,12 +1,20 @@
 {
   "Batches": [
     {
-      "Upcoming":[
-         {
+      "Started": [
+        {
+          "courseName": "Angular 7",
+          "startDate": "12-10-2019",
+          "time": "11:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
           "courseName": "JEE",
           "startDate": "21-09-2019",
           "time": "10:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Devendra",
           "placed": 0
         },
@@ -14,23 +22,11 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "23-09-2019",
           "time": "8:30 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Omkar",
           "placed": 0
         },
         {
-          "courseName": "Angular 7",
-          "startDate": "05-10-2019",
-          "time": "11:00 AM",
-          "type": "Upcoming",
-          "facultyName": "Omkar",
-          "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
-         {
           "courseName": "Java",
           "startDate": "05-09-2019",
           "time": "08:00 AM",
