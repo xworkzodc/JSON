@@ -34,7 +34,9 @@
           "facultyName": "MT",
           "placed": 0
         }
-      ],
+      ]
+    },
+    {
       "Started": [
         {
           "courseName": "Angular 7",
