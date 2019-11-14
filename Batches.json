@@ -4,22 +4,6 @@
       "Upcoming": [
         {
           "courseName": "Java",
-          "startDate": "09-11-2019",
-          "time": "11:00 AM",
-          "type": "Upcoming",
-          "facultyName": "Krupa",
-          "placed": 0
-        },
-        {
-          "courseName": "SQL",
-          "startDate": "09-11-2019",
-          "time": "03:00 PM",
-          "type": "Upcoming",
-          "facultyName": "Varun",
-          "placed": 0
-        },
-        {
-          "courseName": "Java",
           "startDate": "18-11-2019",
           "time": "08:00 AM",
           "type": "Upcoming",
@@ -38,6 +22,22 @@
     },
     {
       "Started": [
+        {
+          "courseName": "Java",
+          "startDate": "09-11-2019",
+          "time": "11:00 AM",
+          "type": "Started",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
+          "courseName": "SQL",
+          "startDate": "09-11-2019",
+          "time": "03:00 PM",
+          "type": "Started",
+          "facultyName": "Varun",
+          "placed": 0
+        },
         {
           "courseName": "Angular 7",
           "startDate": "12-10-2019",
@@ -118,7 +118,6 @@
           "facultyName": "Omkar",
           "placed": 0
         },
-        
         {
           "courseName": "JEE",
           "startDate": "29-08-2019",
