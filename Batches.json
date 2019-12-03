@@ -3,10 +3,46 @@
     {
       "Upcoming": [
         {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "14-12-2019",
+          "time": "11:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Frameworks",
+          "placed": 0
+        },
+        {
+          "courseName": "Angular 8",
+          "startDate": "28-12-2019",
+          "time": "11:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "JEE",
+          "startDate": "09-12-2019",
+          "time": "10:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
+        {
+          "courseName": "Selenium",
+          "startDate": "04-01-2019",
+          "time": "09:00 AM",
+          "type": "Upcoming",
+          "facultyName": "selenium",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Started": [
+        {
           "courseName": "Java",
           "startDate": "18-11-2019",
           "time": "08:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Ashok",
           "placed": 0
         },
@@ -14,14 +50,10 @@
           "courseName": "Manual Testing",
           "startDate": "16-11-2019",
           "time": "08:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "MT",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "Java",
           "startDate": "09-11-2019",
@@ -47,6 +79,18 @@
           "placed": 0
         },
         {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "23-09-2019",
+          "time": "8:30 AM",
+          "type": "Started",
+          "facultyName": "Omkar",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Ongoing": [
+        {
           "courseName": "JEE",
           "startDate": "21-09-2019",
           "time": "10:00 AM",
@@ -55,25 +99,17 @@
           "placed": 0
         },
         {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "23-09-2019",
-          "time": "8:30 AM",
-          "type": "Started",
-          "facultyName": "Omkar",
-          "placed": 0
-        },
-        {
           "courseName": "Java",
           "startDate": "05-09-2019",
           "time": "08:00 AM",
-          "type": "Started",
-          "facultyName": "Ashok",
+          "type": "Ongoing",
+          "facultyName": "Asha",
           "placed": 0
         }
       ]
     },
     {
-      "Ongoing": [
+      "Completed": [
         {
           "courseName": "JAVA",
           "startDate": "18-07-2019",
@@ -94,14 +130,10 @@
           "courseName": "JAVA",
           "startDate": "06-06-2019",
           "time": "08:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Asha",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "22-07-2019",
