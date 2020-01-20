@@ -4,7 +4,7 @@
       "Upcoming": [
         {
           "courseName": "Python",
-          "startDate": "11-01-2020",
+          "startDate": "25-01-2020",
           "time": "11:00 AM",
           "type": "Upcoming",
           "facultyName": "python",
@@ -12,26 +12,10 @@
         },
         {
           "courseName": "Web Technologies",
-          "startDate": "18-01-2020",
+          "startDate": "25-01-2020",
           "time": "08:30 AM",
           "type": "Upcoming",
           "facultyName": "wt",
-          "placed": 0
-        },
-        {
-          "courseName": "JAVA",
-          "startDate": "06-01-2020",
-          "time": "08:00 AM",
-          "type": "Upcoming",
-          "facultyName": "Ashok",
-          "placed": 0
-        },
-        {
-          "courseName": "Angular 8",
-          "startDate": "04-01-2020",
-          "time": "11:00 AM",
-          "type": "Upcoming",
-          "facultyName": "Omkar",
           "placed": 0
         },
         {
@@ -41,19 +25,35 @@
           "type": "Upcoming",
           "facultyName": "Omkar",
           "placed": 0
-        },
-        {
-          "courseName": "Selenium",
-          "startDate": "04-01-2020",
-          "time": "09:00 AM",
-          "type": "Upcoming",
-          "facultyName": "selenium",
-          "placed": 0
         }
       ]
     },
     {
       "Started": [
+        {
+          "courseName": "JAVA",
+          "startDate": "16-01-2020",
+          "time": "08:00 AM",
+          "type": "Started",
+          "facultyName": "Ashok",
+          "placed": 0
+        },
+        {
+          "courseName": "Angular 8",
+          "startDate": "04-01-2020",
+          "time": "11:00 AM",
+          "type": "Started",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Selenium",
+          "startDate": "18-01-2020",
+          "time": "09:00 AM",
+          "type": "Started",
+          "facultyName": "selenium",
+          "placed": 0
+        },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "12-12-2019",
@@ -61,12 +61,16 @@
           "type": "Started",
           "facultyName": "Omkar",
           "placed": 0
-        },
+        }
+      ]
+    },
+    {
+      "Ongoing": [
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "14-12-2019",
           "time": "11:00 AM",
-          "type": "Started",
+          "type": "Ongoing",
           "facultyName": "Devendra",
           "placed": 0
         },
@@ -74,7 +78,7 @@
           "courseName": "Angular 8",
           "startDate": "28-12-2019",
           "time": "11:00 AM",
-          "type": "Started",
+          "type": "Ongoing",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -82,24 +86,24 @@
           "courseName": "JEE",
           "startDate": "09-12-2019",
           "time": "10:00 AM",
-          "type": "Started",
+          "type": "Ongoing",
           "facultyName": "Devendra",
+          "placed": 0
+        },
+        {
+          "courseName": "Java",
+          "startDate": "05-09-2019",
+          "time": "08:00 AM",
+          "type": "Ongoing",
+          "facultyName": "Asha",
           "placed": 0
         },
         {
           "courseName": "Java",
           "startDate": "18-11-2019",
           "time": "08:00 AM",
-          "type": "Started",
-          "facultyName": "Ashok",
-          "placed": 0
-        },
-        {
-          "courseName": "Manual Testing",
-          "startDate": "16-11-2019",
-          "time": "08:00 AM",
-          "type": "Started",
-          "facultyName": "MT",
+          "type": "Ongoing",
+          "facultyName": "Asha",
           "placed": 0
         },
         {
@@ -113,20 +117,12 @@
       ]
     },
     {
-      "Ongoing": [
-        {
-          "courseName": "SQL",
-          "startDate": "09-11-2019",
-          "time": "03:00 PM",
-          "type": "Ongoing",
-          "facultyName": "Varun",
-          "placed": 0
-        },
+      "Completed": [
         {
           "courseName": "Angular 7",
           "startDate": "12-10-2019",
           "time": "11:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -139,17 +135,21 @@
           "placed": 0
         },
         {
-          "courseName": "Java",
-          "startDate": "05-09-2019",
-          "time": "08:00 AM",
-          "type": "Ongoing",
-          "facultyName": "Asha",
+          "courseName": "SQL",
+          "startDate": "09-11-2019",
+          "time": "03:00 PM",
+          "type": "Completed",
+          "facultyName": "Varun",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },
+        {
+          "courseName": "Manual Testing",
+          "startDate": "16-11-2019",
+          "time": "08:00 AM",
+          "type": "Completed",
+          "facultyName": "MT",
+          "placed": 0
+        },
         {
           "courseName": "JEE",
           "startDate": "21-09-2019",
