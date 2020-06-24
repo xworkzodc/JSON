@@ -1,6 +1,19 @@
 {
   "Batches": [
     {
+    "Upcoming": [
+        {
+          "courseName": "Core Java",
+          "startDate": "27-06-2020",
+          "time": "09:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0  
+       }
+      ]
+     },
+   
+      {
       "Started": [
         {
           "courseName": "Web Technologies",
