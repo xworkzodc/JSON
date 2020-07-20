@@ -1,20 +1,35 @@
 {
   "Batches": [
     {
-    "Upcoming": [
+      "Upcoming": [
+        {
+          "courseName": "Angular",
+          "startDate": "06-08-2020",
+          "time": "08:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Python",
+          "startDate": "08-08-2020",
+          "time": "10:00 AM",
+          "type": "Upcoming",
+          "facultyName": "Vinod",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Started": [
         {
           "courseName": "Core Java",
           "startDate": "27-06-2020",
           "time": "09:00 AM",
-          "type": "Upcoming",
+          "type": "Started",
           "facultyName": "Krupa",
-          "placed": 0  
-       }
-      ]
-     },
-   
-      {
-      "Started": [
+          "placed": 0
+        },
         {
           "courseName": "Web Technologies",
           "startDate": "25-01-2020",
