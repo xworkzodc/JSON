@@ -29,19 +29,23 @@
           "type": "Online Started",
           "facultyName": "Omkar",
           "placed": 0
-        },
+        }    
+      ]
+    },
+    {
+      "Ongoing": [
         {
           "courseName": "Core Java",
           "startDate": "27-06-2020",
           "time": "09:00 AM",
-          "type": "Online Started",
+          "type": "Online Ongoing",
           "facultyName": "Krupa",
           "placed": 0
         }  
       ]
     },
     {
-      "Ongoing": [
+      "Completed": [
         {
           "courseName": "Web Technologies",
           "startDate": "25-01-2020",
@@ -57,11 +61,7 @@
           "type": "Started",
           "facultyName": "Omkar",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },        
          {
           "courseName": "JAVA",
           "startDate": "16-01-2020",
