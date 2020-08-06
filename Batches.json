@@ -50,7 +50,7 @@
           "courseName": "Web Technologies",
           "startDate": "25-01-2020",
           "time": "08:30 AM",
-          "type": "Started",
+          "type": "Completed",
           "facultyName": "wt",
           "placed": 0
         },
@@ -58,7 +58,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "23-01-2020",
           "time": "08:00 AM",
-          "type": "Started",
+          "type": "Completed",
           "facultyName": "Omkar",
           "placed": 0
         },        
@@ -66,7 +66,7 @@
           "courseName": "JAVA",
           "startDate": "16-01-2020",
           "time": "08:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Ashok",
           "placed": 0
         },
@@ -74,7 +74,7 @@
           "courseName": "Angular 8",
           "startDate": "04-01-2020",
           "time": "11:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -82,7 +82,7 @@
           "courseName": "Selenium",
           "startDate": "18-01-2020",
           "time": "09:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "selenium",
           "placed": 0
         },
@@ -90,7 +90,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "12-12-2019",
           "time": "08:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -98,7 +98,7 @@
           "courseName": "Java",
           "startDate": "09-11-2019",
           "time": "11:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Krupa",
           "placed": 0
         },
@@ -106,7 +106,7 @@
           "courseName": "Java",
           "startDate": "18-11-2019",
           "time": "08:00 AM",
-          "type": "Ongoing",
+          "type": "Completed",
           "facultyName": "Asha",
           "placed": 0
         },
