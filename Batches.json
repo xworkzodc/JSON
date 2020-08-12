@@ -17,7 +17,15 @@
           "type": "Online Upcoming",
           "facultyName": "Vinod",
           "placed": 0
-        }
+        },
+        {
+          "courseName": "Web services",
+          "startDate": "16-08-2020",
+          "time": "11:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+        }  
       ]
     },
     {
