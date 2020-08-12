@@ -25,7 +25,15 @@
           "type": "Online Upcoming",
           "facultyName": "Omkar",
           "placed": 0
-        }  
+        },
+        {
+          "courseName": "Java selenium",
+          "startDate": "05-09-2020",
+          "time": "10:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Sharath",
+          "placed": 0
+        }
       ]
     },
     {
