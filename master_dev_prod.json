@@ -5,4 +5,7 @@
       "notification":"https://raw.githubusercontent.com/xworkzodc/JSON/master/notification.json",
       "facultyImage":"https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/",
       "popUp":"https://raw.githubusercontent.com/xworkzodc/JSON/master/popNotification.json"
+      "video":"https://raw.githubusercontent.com/xworkzodc/JSON/master/Videos.json",
+      "reviews":"https://raw.githubusercontent.com/xworkzodc/Gallery/master/Reviews.json",
+      "placed":"https://raw.githubusercontent.com/xworkzodc/Gallery/master/Placed.json"
 }

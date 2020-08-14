@@ -1,0 +1,20 @@
+{
+	"Videos": [
+		{
+			"name": "about xworkz",
+			"videoSrc":"https://www.youtube.com/embed/n7GWT_8TMMg"
+		},
+		{
+			"name": "X-Workz ODC Journey 5",
+			"videoSrc": "https://www.youtube.com/embed/MkAlEB98xMU"
+		},
+		{
+			"name": "2019 PLACED STUDENTS",
+			"videoSrc":"https://www.youtube.com/embed/mo2X1ybN4hk"
+		},
+		{
+			"name": "Drive Conducted by X-Workz ODC",
+			"videoSrc":"https://www.youtube.com/embed/6j5XuAqYF_Q"
+		}
+		]
+}
