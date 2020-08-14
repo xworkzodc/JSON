@@ -12,6 +12,14 @@
           "placed": 0
         },
         {
+          "courseName": "Core Java",
+          "startDate": "31-08-2020",
+          "time": "08:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Ashok",
+          "placed": 0
+        },
+        {
           "courseName": "Java selenium",
           "startDate": "05-09-2020",
           "time": "10:00 AM",
