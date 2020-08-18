@@ -1,11 +1,9 @@
 {
-	"Mails": [
-		{
-			"subscribeId":"xworkzsubscribe@gmail.com",
-			"contactId":"xworkzcontact@gmail.com",
+
+      "subscribeId":"xworkzsubscribe@gmail.com",
+      "contactId":"xworkzcontact@gmail.com",
       "vinayId":"vinay@x-workz.in",
       "aksharaId":"akshara.xworkz@gmail.com",
       "xworkzId":"contact@x-workz.in"
-		}
-		]
+		
 }
