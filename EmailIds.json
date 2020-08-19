@@ -1,6 +1,10 @@
 {
      "MailIds": [
 	     {
+	      "name": "TestMailId",	     
+	      "mailAddress":"vinays10998@gmail.com"
+	     },
+	     {
 	      "name": "vinayMailId",	     
 	      "mailAddress":"vinay@x-workz.in"
 	     },
