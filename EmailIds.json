@@ -1,14 +1,6 @@
 {
      "MailIds": [
 	     {
-	       "name": "subscribersMailId",	     
-	       "mailAddress":"xworkzsubscribe@gmail.com"
-	     },
-	     {
-	      "name": "contactMailId",
-	      "mailAddress":"xworkzcontact@gmail.com"
-	     },
-	     {
 	      "name": "vinayMailId",	     
 	      "mailAddress":"vinay@x-workz.in"
 	     },
