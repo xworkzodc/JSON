@@ -1,9 +1,24 @@
 {
-
-      "mailAddress":"xworkzsubscribe@gmail.com",
-      "mailAddress":"xworkzcontact@gmail.com",
-      "mailAddress":"vinay@x-workz.in",
-      "mailAddress":"akshara.xworkz@gmail.com",
-      "mailAddress":"contact@x-workz.in"
-		
+     "MailIds": [
+	     {
+	       "name": "subscribersMailId",	     
+	       "mailAddress":"xworkzsubscribe@gmail.com"
+	     },
+	     {
+	      "name": "contactMailId",
+	      "mailAddress":"xworkzcontact@gmail.com"
+	     },
+	     {
+	      "name": "vinayMailId",	     
+	      "mailAddress":"vinay@x-workz.in"
+	     },
+	     {
+	      "name": "aksharaMailId",
+	      "mailAddress":"akshara.xworkz@gmail.com"
+	     },
+	     {
+	      "name": "",
+	      "mailAddress":"contact@x-workz.in"
+	     }
+	     ]		
 }
