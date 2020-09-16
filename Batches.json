@@ -11,6 +11,14 @@
           "placed": 0
         },
         {
+          "courseName": "Java selenium",
+          "startDate": "05-09-2020",
+          "time": "10:00 AM",
+          "type": "Online Started",
+          "facultyName": "Sharath",
+          "placed": 0
+        },
+        {
           "courseName": "Core Java",
           "startDate": "31-08-2020",
           "time": "08:00 AM",
@@ -25,28 +33,24 @@
           "type": "Online Started",
           "facultyName": "Ashok",
           "placed": 0
-        },
+        }
+      ]
+    },
+    {
+      "Ongoing": [
         {
           "courseName": "Web services",
           "startDate": "16-08-2020",
           "time": "11:00 AM",
-          "type": "Online Started",
+          "type": "Online Ongoing",
           "facultyName": "Omkar",
-          "placed": 0
-        },
-        {
-          "courseName": "Java selenium",
-          "startDate": "05-09-2020",
-          "time": "10:00 AM",
-          "type": "Online Started",
-          "facultyName": "Sharath",
           "placed": 0
         },
         {
           "courseName": "Web technologies",
           "startDate": "10-08-2020",
           "time": "08:00 AM",
-          "type": "Online Started",
+          "type": "Online Ongoing",
           "facultyName": "Lokesh",
           "placed": 0
         },
@@ -54,7 +58,7 @@
           "courseName": "Python",
           "startDate": "08-08-2020",
           "time": "10:00 AM",
-          "type": "Online Started",
+          "type": "Online Ongoing",
           "facultyName": "Vinod",
           "placed": 0
         },
@@ -62,14 +66,10 @@
           "courseName": "Angular",
           "startDate": "06-08-2020",
           "time": "08:00 AM",
-          "type": "Online Started",
+          "type": "Online Ongoing",
           "facultyName": "Omkar",
           "placed": 0
-        }    
-      ]
-    },
-    {
-      "Ongoing": [
+        },    
         {
           "courseName": "Core Java",
           "startDate": "27-06-2020",
