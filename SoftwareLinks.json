@@ -1,0 +1,24 @@
+{
+     "Softwares": [
+	     {
+	      "name": "JDK 8",	     
+	      "description":"Java SE Development Kit 8 Downloads.",
+        "link":"https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html"
+	     },
+	     {
+	      "name": "Eclipse IDE",	     
+	      "description":"The Eclipse Installer 2020‑09 R now includes a JRE for Mac OS X, Windows and Linux.",
+        "link":"https://www.eclipse.org/downloads/"
+	     },
+	     {
+	      "name": "Apache Maven",	     
+	      "description":"Apache Maven 3.6.3 is the latest release and recommended version for all users.",
+        "link":"https://maven.apache.org/download.cgi"
+	     },
+       {
+	      "name": "Visual Studio Code",	     
+	      "description":"Download Visual Studio Code Free and built on open source. Integrated Git, debugging and extensions.",
+        "link":"https://code.visualstudio.com/download"
+	     }
+	     ]		
+}
