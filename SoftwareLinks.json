@@ -19,6 +19,11 @@
 	      "name": "Visual Studio Code",	     
 	      "description":"Download Visual Studio Code Free and built on open source. Integrated Git, debugging and extensions.",
         "link":"https://code.visualstudio.com/download"
+	     },
+	      {
+	      "name": "Visual Studio",	     
+	      "description":"Download Visual Studio Code Free and built on open source. Integrated Git, debugging and extensions.",
+        "link":"https://code.visualstudio.com/download"
 	     }
 	     ]		
 }
