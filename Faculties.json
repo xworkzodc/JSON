@@ -6,6 +6,16 @@
 			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Omkar.png"
 		},
 		{
+			"name": "Vinay Kumar PV",
+			"description": "HR Manager at X-workZ ODC.years of experience into HR and placement department.Areas Of Expertise.Market Research and Analysis | Marketing, sales strategy and communications | Competitive Intelligence | New Business development | Team Mentoring, Training, and Management |. Key accounts management | Business Strategy & Recruitment Planning | IT Services | Client Acquisitions| Client Relationships| Client Retention|.Placed more than 4000+ candidates.worked with more than 200+ clients",
+			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Vinay%20Kumar%20PV.jpg"
+		},
+		{
+			"name": "Akshara P",
+			"description": "Sr.Business Development Associate.5 years of experience into Business Development and client engagement.Expertise in campus and corporate relationship.Identifying and mapping business strengths and customer needs.Developing growth strategies and plans.worked with more than 300+ clients",
+			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Akshara%20P.jpg"
+		},
+		{
 			"name": "Pavan",
 			"description": "More than Three years of Development and training experience.Trained more than 4000 students on Java and in other Web technologies and frameworks.Full Stack Developer.Expert in backend Technologies",
 			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Pavan.png"
@@ -21,6 +31,11 @@
 			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Varun.png"
 		},
 		{
+			"name": "Vinay S",
+			"description": "Software Developer X-workz Development Center.Managing Enterprise Web Applications.Started career as a full stack developer at X-Workz.Completed full stack development course at X-Workz.Better knowledge in Web Technologies, Frameworks as well as backend technologies like Java and Jee",
+			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Vinay.s.png"
+		},
+		{
 			"name": "Srinivas Chinthal",
 			"description": "Has an experience of 4 years in IT and 4 years in training.Has conducted training session for more than 750 students.Hands on JAVA, JEE, Oracle ATG and SFCC experience",
 			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Srinivas.png"
@@ -29,8 +44,7 @@
 			"name": "Devendra Singh",
 			"description": "Has an experience of 3 years in IT and 2 years in training.Trained over 1000 students.Helping students to practically impelement projects. Expert in advance java technologies",
 			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Devendra.png"
-		}
-		,
+		},
 		{
 			"name": "Krupa L J",
 			"description": "Have 8+ years of experience in software development.Have trained over 1000s of students on different technologies and majorly on Java development and practical sessions.Have been exposed to different technologies like Hibernate, spring, ELK, SQL, REST/Soap web services, Angular JS, React, GWT, Google Guice, etc",
@@ -41,11 +55,7 @@
 			"description": "6 years of experience in IT industry.Extensive knowledge on java and jee technologies.2 years of experience in Java training.Currently working as a full-stack developer.Extensive knowledge on non-relational database.Expert in developing enterprises application",
 			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Asha.png"
 		},
-		{
-			"name": "Vinay S",
-			"description": "Software Developer X-workz Development Center.Managing Enterprise Web Applications.Started career as a full stack developer at X-Workz.Completed full stack development course at X-Workz.Better knowledge in Web Technologies, Frameworks as well as backend technologies like Java and Jee",
-			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Vinay.s.png"
-		},
+		
 		{
 			"name": "Vinod",
 			"description": "Has an experience of  3+ years in IT and  2 years in training.Has conducted training sessions for more than 250  students on technologies like Java, Web Technologies, Frameworks, and Python.Extensive knowledge in developing Web applications and helped students to practically implement applications on their own",
