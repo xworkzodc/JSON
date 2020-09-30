@@ -2,53 +2,33 @@
      "Softwares": [
 	     {
 	      "name": "JDK 8",	     
-	      "description":"Java SE Development Kit 8 Downloads.",
-        "link":"https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html"
+	      "description":"Java SE Development Kit 8 Download for windows 64bit.",
+              "directLink":"https://drive.google.com/u/0/uc?export=download&confirm=Xzdq&id=1VP6p3ANyAqFJh-7Ae01KBEWL0N_rmsIG",
+	      "extranalLink":"https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html"		     
 	     },
 	     {
 	      "name": "Eclipse IDE",	     
-	      "description":"The Eclipse Installer 2020‑09 R now includes a JRE for Mac OS X, Windows and Linux.",
-        "link":"https://www.eclipse.org/downloads/"
+	      "description":"The Eclipse Installer 2020‑09 now includes a JRE for Mac OS X, Windows and Linux.",
+	      "directLink":"https://drive.google.com/u/0/uc?export=download&confirm=cQ-C&id=1iEISuopCERJjuNB5LSfT_6H1yfRuJgW8",
+	      "extranalLink":"https://www.eclipse.org/downloads/"
 	     },
 	     {
 	      "name": "Apache Maven",	     
-	      "description":"Apache Maven 3.6.3 is the latest release and recommended version for all users.",
-        "link":"https://maven.apache.org/download.cgi"
-	     },
-       {
-	      "name": "Visual Studio Code",	     
-	      "description":"Download Visual Studio Code Free and built on open source. Integrated Git, debugging and extensions.",
-        "link":"https://code.visualstudio.com/download"
-	     },
-	      {
-	      "name": "Visual Studio",	     
-	      "description":"Download Visual Studio Code Free and built on open source. Integrated Git, debugging and extensions.",
-        "link":"https://code.visualstudio.com/download"
+	      "description":"Apache Maven - version 3.6.3 is the latest release and recommended version for all users.",
+	      "directLink":"https://drive.google.com/u/0/uc?export=download&confirm=nu5E&id=1Nev9UzCaolin0d1NIe5L6BTty8auZgG3",
+	      "extranalLink":"https://maven.apache.org/download.cgi"
 	     },
 	     {
-	      "name": "JDK 8",	     
-	      "description":"Java SE Development Kit 8 Downloads.",
-        "link":"https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html"
+	      "name": "Apache Tomcat",	     
+	      "description":"Apache-Tomcat Version 9.0.38 for windows 64bit is the latest release and recommended version for all users.",
+	      "directLink":"https://drive.google.com/u/0/uc?export=download&confirm=54LB&id=10EYHbdRealiFauOjwzp6xDEpzXgt60Bu",
+	      "extranalLink":"https://tomcat.apache.org/download-80.cgi"
 	     },
-	     {
-	      "name": "Eclipse IDE",	     
-	      "description":"The Eclipse Installer 2020‑09 R now includes a JRE for Mac OS X, Windows and Linux.",
-        "link":"https://www.eclipse.org/downloads/"
-	     },
-	     {
-	      "name": "Apache Maven",	     
-	      "description":"Apache Maven 3.6.3 is the latest release and recommended version for all users.",
-        "link":"https://maven.apache.org/download.cgi"
-	     },
-       {
-	      "name": "Visual Studio Code",	     
-	      "description":"Download Visual Studio Code Free and built on open source. Integrated Git, debugging and extensions.",
-        "link":"https://code.visualstudio.com/download"
-	     },
-	      {
-	      "name": "Visual Studio",	     
-	      "description":"Download Visual Studio Code Free and built on open source. Integrated Git, debugging and extensions.",
-        "link":"https://code.visualstudio.com/download"
-	     }
+             {
+	      "name": "Visual Studio Code IDE",	     
+	      "description":"Visual Studio Code IDE Version 1.48.2 for windows 64bit Free and built on open source.",
+	      "directLink":"https://drive.google.com/u/0/uc?export=download&confirm=23Cs&id=10SIRCUyWB3GuERr74K_I5QlwpnvNDHzz",
+	      "extranalLink":"https://code.visualstudio.com/download"
+	     }	      
 	     ]		
 }
