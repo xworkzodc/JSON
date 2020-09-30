@@ -1,44 +1,34 @@
 {
      "Registrations": [
 	     {
-	      "name": "Enquiry Form",	     
-	      "description":"for enquiry about any courses",
-        "link":"https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html"
+	      "name": "Course Enquiry Form",	     
+	      "description":"Form To enquiry about any courses",
+              "link":"https://forms.gle/3q4pNjBk1AUCLtqf9"
 	     },
 	     {
 	      "name": "New Registration Form",	     
-	      "description":"form for new Registration.",
-        "link":"https://www.eclipse.org/downloads/"
+	      "description":"Form for new Registration.",
+              "link":"https://forms.gle/4AcBGViwqCiwJV8A7"
 	     },
-	     {
-	      "name": "Free Course Apply",	     
-	      "description":"Apply for free courses.",
-        "link":"https://maven.apache.org/download.cgi"
+              {
+	      "name": "Feedback Form",	    
+	      "description":"Form to give feedback regarding onging classes and etc.",
+              "link":"https://forms.gle/7frbvrVu8KC8eLBp8"
 	     },
              {
 	      "name": "Internship Form",	     
-	      "description":"form for internships.",
-        "link":"https://code.visualstudio.com/download"
-	     },
-	      {
-	      "name": "Enquiry Form",	     
-	      "description":"for enquiry about any courses",
-        "link":"https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html"
+	      "description":"Form For registering in internship programs.",
+              "link":"https://forms.gle/SxqgMayf4mayegjh7"
 	     },
 	     {
-	      "name": "New Registration Form",	     
-	      "description":"form for new Registration.",
-        "link":"https://www.eclipse.org/downloads/"
+	      "name": "Students Leave Form",	     
+	      "description":"Form to apply leave for onging classes.",
+              "link":"https://forms.gle/VYtZZJH6mJDGFg9p7"
 	     },
 	     {
-	      "name": "Free Course Apply",	     
-	      "description":"Apply for free courses.",
-        "link":"https://maven.apache.org/download.cgi"
-	     },
-       {
-	      "name": "Internship Form",	     
-	      "description":"form for internships.",
-        "link":"https://code.visualstudio.com/download"
+	      "name": "Fees Details Form",	     
+	      "description":"Form to update the fee details.",
+              "link":"https://forms.gle/VYtZZJH6mJDGFg9p7"
 	     }
 	     ]		
 }
