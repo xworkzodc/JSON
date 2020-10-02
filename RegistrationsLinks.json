@@ -5,15 +5,20 @@
 	      "description":"Form To enquiry about any courses",
               "link":"https://forms.gle/3q4pNjBk1AUCLtqf9"
 	     },
-	     {
-	      "name": "New Registration Form",	     
-	      "description":"Form for new Registration.",
-              "link":"https://forms.gle/4AcBGViwqCiwJV8A7"
-	     },
               {
 	      "name": "Feedback Form",	    
 	      "description":"Form to give feedback regarding onging classes and etc.",
               "link":"https://forms.gle/7frbvrVu8KC8eLBp8"
+	     },
+	     {
+	      "name": "Feed Back about Induction and training Program",   
+	      "description":"To give Feed Back about Induction and training Program",
+              "link":"https://forms.gle/U6SZQgq13WbeLGyY8"
+	     },
+	     {
+	      "name": "Fees Details Form",	     
+	      "description":"Form to update the fee details.",
+              "link":"https://forms.gle/9buHco1P65WwYUDVA"
 	     },
              {
 	      "name": "Internship Form",	     
@@ -24,11 +29,11 @@
 	      "name": "Students Leave Form",	     
 	      "description":"Form to apply leave for onging classes.",
               "link":"https://forms.gle/VYtZZJH6mJDGFg9p7"
-	     },
+	     },   
 	     {
-	      "name": "Fees Details Form",	     
-	      "description":"Form to update the fee details.",
-              "link":"https://forms.gle/9buHco1P65WwYUDVA"
+	      "name": "New Registration Form",	     
+	      "description":"Form for new Registration.",
+              "link":"https://forms.gle/4AcBGViwqCiwJV8A7"
 	     }
 	     ]		
 }
