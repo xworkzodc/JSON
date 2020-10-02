@@ -8,5 +8,7 @@
       "video":"https://raw.githubusercontent.com/xworkzodc/JSON/master/Videos.json",
       "reviews":"https://raw.githubusercontent.com/xworkzodc/Gallery/master/Reviews.json",
       "placed":"https://raw.githubusercontent.com/xworkzodc/Gallery/master/Placed.json",
-      "mailIds":"https://raw.githubusercontent.com/xworkzodc/JSON/master/EmailIds.json"
+      "mailIds":"https://raw.githubusercontent.com/xworkzodc/JSON/master/EmailIds.json",
+      "softwares":"https://raw.githubusercontent.com/xworkzodc/JSON/master/SoftwareLinks.json",
+      "registrations":"https://raw.githubusercontent.com/xworkzodc/JSON/master/RegistrationsLinks.json"
 }
