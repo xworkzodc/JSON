@@ -1,7 +1,26 @@
 {
   "Batches": [
+     {
+      "Upcoming": [  
+        {
+          "courseName": "JAVA",
+          "startDate": "08-10-2020",
+          "time": "8:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Ashok"
+        }
+      ]
+    },
     {
       "Started": [
+        {
+          "courseName": "JEE",
+          "startDate": "26-09-2020",
+          "time": "11:00 AM",
+          "type": "Online Started",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
         {
           "courseName": "Core Java",
           "startDate": "05-09-2020",
