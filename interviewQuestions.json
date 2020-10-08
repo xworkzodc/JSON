@@ -1,0 +1,32 @@
+{
+     "Questions": [
+	     {
+	      "question": "1.Course Enquiry Form",	     
+	      "answer":"Form To enquiry about any courses"
+	     },
+              {
+	      "question": "2.Feedback Form",	    
+	      "answer":"Form to give feedback regarding onging classes and etc." 
+	     },
+	     {
+	      "question": "3.Feed Back about Induction and training Program",   
+	      "answer":"To give Feed Back about Induction and training Program"        
+	     },
+	     {
+	      "question": "4.Fees Details Form",	     
+	      "answer":"Form to update the fee details."              
+	     },
+             {
+	      "question": "5.Internship Form",	     
+	      "answer":"Form For registering in internship programs."           
+	     },
+	     {
+	      "question": "6.Students Leave Form",	     
+	      "answer":"Form to apply leave for onging classes."
+	     },   
+	     {
+	      "question": "7.New Registration Form",	     
+	      "answer":"Form for new Registration."              
+	     }
+	     ]		
+}
