@@ -44,9 +44,9 @@
 	      "question": "11.What if I write static public void instead of public static void?",	     
 	      "answer":"Form to apply leave for onging classes."
 	     },
-	      {
+	     {
 	      "question": "12.What is the default value of the local variables?",	     
 	      "answer":"Form to apply leave for onging classes."
-	     },
+	     }
 	     ]		
 }
