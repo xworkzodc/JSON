@@ -11,6 +11,42 @@
 	     {
 	      "question": "3.What do you understand by Java virtual machine?",   
 	      "answer":"To give Feed Back about Induction and training Program"        
-	     }
+	     },
+	     {
+	      "question": "4.What is the difference between JDK, JRE, and JVM?",	     
+	      "answer":"Form to update the fee details."              
+	     },
+             {
+	      "question": "5.How many types of memory areas are allocated by JVM?",	     
+	      "answer":"Form For registering in internship programs."           
+	     },
+	     {
+	      "question": "6.What is JIT compiler?",	     
+	      "answer":"Form to apply leave for onging classes."
+	     },   
+	     {
+	      "question": "7.What are the main differences between the Java platform and other platforms?",	     
+	      "answer":"Form for new Registration."              
+	     },
+	     {
+	      "question": "8.What gives Java its 'write once and run anywhere' nature?",	     
+	      "answer":"Form to apply leave for onging classes."
+	     },
+	     {
+	      "question": "9.What is classloader?",	     
+	      "answer":"Form to apply leave for onging classes."
+	     },
+	     {
+	      "question": "10.Is Empty .java file name a valid source file name?",	     
+	      "answer":"Form to apply leave for onging classes."
+	     },
+	     {
+	      "question": "11.What if I write static public void instead of public static void?",	     
+	      "answer":"Form to apply leave for onging classes."
+	     },
+	     {
+	      "question": "12.What is the default value of the local variables?",	     
+	      "answer":"Form to apply leave for onging classes."
+	     }	     
 	     ]		
 }
