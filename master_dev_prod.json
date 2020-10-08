@@ -10,5 +10,6 @@
       "placed":"https://raw.githubusercontent.com/xworkzodc/Gallery/master/Placed.json",
       "mailIds":"https://raw.githubusercontent.com/xworkzodc/JSON/master/EmailIds.json",
       "softwares":"https://raw.githubusercontent.com/xworkzodc/JSON/master/SoftwareLinks.json",
-      "registrations":"https://raw.githubusercontent.com/xworkzodc/JSON/master/RegistrationsLinks.json"
+      "registrations":"https://raw.githubusercontent.com/xworkzodc/JSON/master/RegistrationsLinks.json",
+      "questions":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/InterviewQuestions.json"
 }
