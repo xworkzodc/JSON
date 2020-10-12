@@ -1,52 +1,814 @@
 {
-     "Questions": [
-	     {
-	      "question": "What are the differences between C++ and Java?",	     
-	      "answer":"Form To enquiry about any courses"
-	     },
-             {
-	      "question": "List the features of Java Programming language.",	    
-	      "answer":"Form to give feedback regarding onging classes and etc." 
-	     },
-	     {
-	      "question": "What do you understand by Java virtual machine?",   
-	      "answer":"To give Feed Back about Induction and training Program"        
-	     },
-	     {
-	      "question": "What is the difference between JDK, JRE, and JVM?",	     
-	      "answer":"Form to update the fee details."              
-	     },
-             {
-	      "question": "How many types of memory areas are allocated by JVM?",	     
-	      "answer":"Form For registering in internship programs."           
-	     },
-	     {
-	      "question": "6.What is JIT compiler?",	     
-	      "answer":"Form to apply leave for onging classes."
-	     },   
-	     {
-	      "question": "7.What are the main differences between the Java platform and other platforms?",	     
-	      "answer":"Form for new Registration."              
-	     },
-	     {
-	      "question": "8.What gives Java its 'write once and run anywhere' nature?",	     
-	      "answer":"Form to apply leave for onging classes."
-	     },
-	     {
-	      "question": "9.What is classloader?",	     
-	      "answer":"Form to apply leave for onging classes."
-	     },
-	     {
-	      "question": "10.Is Empty .java file name a valid source file name?",	     
-	      "answer":"Form to apply leave for onging classes."
-	     },
-	     {
-	      "question": "11.What if I write static public void instead of public static void?",	     
-	      "answer":"Form to apply leave for onging classes."
-	     },
-	     {
-	      "question": "12.What is the default value of the local variables?",	     
-	      "answer":"Form to apply leave for onging classes."
-	     }	     
-	     ]		
+    "Questions": [
+        {
+         "question": "What are the differences between C++ and Java?",	     
+         "answer":"Form To enquiry about any courses"
+        },
+            {
+         "question": "List the features of Java Programming language.",	    
+         "answer":"Form to give feedback regarding onging classes and etc." 
+        },
+        {
+         "question": "What do you understand by Java virtual machine?",   
+         "answer":"To give Feed Back about Induction and training Program"        
+        },
+        {
+         "question": "What is the difference between JDK, JRE, and JVM?",	     
+         "answer":"Form to update the fee details."              
+        },
+            {
+         "question": "How many types of memory areas are allocated by JVM?",	     
+         "answer":"Form For registering in internship programs."           
+        },
+        {
+         "question": "What is JIT compiler?",	     
+         "answer":"Form to apply leave for onging classes."
+        },   
+        {
+         "question": "What are the main differences between the Java platform and other platforms?",	     
+         "answer":"Form for new Registration."              
+        },
+        {
+         "question": "What gives Java its 'write once and run anywhere' nature?",	     
+         "answer":"Form to apply leave for onging classes."
+        },
+        {
+         "question": "What is classloader?",	     
+         "answer":"Form to apply leave for onging classes."
+        },
+        {
+         "question": "Is Empty .java file name a valid source file name?",	     
+         "answer":"Form to apply leave for onging classes."
+        },
+        {
+         "question": "What if I write static public void instead of public static void?",	     
+         "answer":"Form to apply leave for onging classes."
+        },
+        {
+         "question": "What is the default value of the local variables?"
+        },
+        {
+         "question": "What are the various access specifiers in Java?"
+        },
+        {
+         "question": "What is the purpose of static methods and variables?"
+        },
+        {
+         "question": "What are the advantages of Packages in Java?"
+        },
+        {
+         "question": "What is object-oriented paradigm?"
+        },
+        {
+         "question": "What is an object?"
+        },
+        {
+         "question": "What is the difference between an object-oriented programming language and object-based programming language?"
+        },
+        {
+         "question": "What will be the initial value of an object reference which is defined as an instance variable?"
+        },
+        {
+         "question": "What is the constructor?"
+        },
+        {
+         "question": "What is the purpose of a default constructor?"
+        },
+        {
+         "question": "Does constructor return any value?"
+        },
+        {
+         "question": "Is constructor inherited?"
+        },
+        {
+         "question": "Can you make a constructor final?"
+        },
+        {
+         "question": "Can we overload the constructors?"
+        },
+        {
+         "question": "What are the differences between the constructors and methods?"
+        },
+        {
+         "question": "What is the static variable?"
+        },
+        {
+         "question": "What is the static method?"
+        },
+        {
+         "question": "Why is the main method static?"
+        },
+        {
+         "question": "Can we override the static methods?"
+        },
+        {
+         "question": "What is the static block?"
+        },
+        {
+         "question": "Can we execute a program without main() method?"
+        },
+        {
+         "question": "What if the static modifier is removed from the signature of the main method?"
+        },
+        {
+         "question": "What is the difference between static (class) method and instance method?"
+        },
+        {
+         "question": "Can we make constructors static?"
+        },
+        {
+         "question": "Can we make the abstract methods static in Java?"
+        },
+        {
+         "question": "Can we declare the static variables and methods in an abstract class?["
+        },
+        {
+         "question": "What is this keyword in java?"
+        },
+        {
+         "question": "What are the main uses of this keyword?"
+        },
+        {
+         "question": "What are the advantages of passing this into a method instead of the current class object itself?"
+        },
+        {
+         "question": "What is the Inheritance?"
+        },
+        {
+         "question": "Which class is the superclass for all the classes?"
+        },
+        {
+         "question": "What is aggregation?"
+        },
+        {
+         "question": "What is composition?"
+        },
+        {
+         "question": "What is the difference between aggregation and composition?"
+        },
+        {
+         "question": "Why does Java not support pointers?"
+        },
+        {
+         "question": "What is super in java?"
+        },
+        {
+         "question": "What are the main uses of the super keyword?"
+        },
+        {
+         "question": "What are the differences between this and super keyword?"
+        },
+        {
+         "question": "Can you use this() and super() both in a constructor?"
+        },
+        {
+         "question": "What is object cloning?"
+        },
+        {
+         "question": "What is method overloading?"
+        },
+        {
+         "question": "Why is method overloading not possible by changing the return type in java?"
+        },
+        {
+         "question": "Can we overload the methods by making them static?"
+        },
+        {
+         "question": "Can we overload the main() method?"
+        },
+        {
+         "question": "What is method overloading with type promotion?"
+        },
+        {
+         "question": "What is the output of the following Java program?"
+        },
+        {
+         "question": "What is method overriding?"
+        },
+        {
+         "question": "Can we override the static method?"
+        },
+        {
+         "question": "Why can we not override static method?"
+        },
+        {
+         "question": "Can we override the overloaded method?"
+        },
+        {
+         "question": "Difference between method Overloading and Overriding?"
+        },
+        {
+         "question": "Can we override the private methods?"
+        },
+        {
+         "question": "Can we change the scope of the overridden method in the subclass?"
+        },
+        {
+         "question": "Can we modify the throws clause of the superclass method while overriding it in the subclass?"
+        },
+        {
+         "question": "Can you have virtual functions in Java?"
+        },
+        {
+         "question": "What is covariant return type?"
+        },
+        {
+         "question": "What is the final variable?"
+        },
+        {
+         "question": "What is the final method?"
+        },
+        {
+         "question": "What is the final class?"
+        },
+        {
+         "question": "What is the final blank variable?"
+        },
+        {
+         "question": "Can we initialize the final blank variable?"
+        },
+        {
+         "question": "Can you declare the main method as final?"
+        },
+        {
+         "question": "Can we declare a constructor as final?"
+        },
+        {
+         "question": "Can we declare an interface as final?"
+        },
+        {
+         "question": "What is the difference between the final method and abstract method?"
+        },
+        {
+         "question": "What is the difference between compile-time polymorphism and runtime polymorphism?"
+        },
+        {
+         "question": "What is Runtime Polymorphism?"
+        },
+        {
+         "question": "Can you achieve Runtime Polymorphism by data members?"
+        },
+        {
+         "question": "What is the difference between static binding and dynamic binding?"
+        },
+        {
+         "question": "What is Java instanceOf operator?"
+        },
+        {
+         "question": "What is the abstraction?"
+        },
+        {
+         "question": "What is the difference between abstraction and encapsulation?"
+        },
+        {
+         "question": "Can there be an abstract method without an abstract class?"
+        },
+        {
+         "question": "Can you use abstract and final both with a method?"
+        },
+        {
+         "question": "What is the interface?"
+        },
+        {
+         "question": "Can you declare an interface method static?"
+        },
+        {
+         "question": "Can the Interface be final?"
+        },
+        {
+         "question": "What is a marker interface?"
+        },
+        {
+         "question": "Can we define private and protected modifiers for the members in interfaces?"
+        },
+        {
+         "question": "How to make a read-only class in Java?"
+        },
+        {
+         "question": "How to make a write-only class in Java?"
+        },
+        {
+         "question": "What are the advantages of Encapsulation in Java?"
+        },
+        {
+         "question": "What is the package?"
+        },
+        {
+         "question": "How to create packages in Java?"
+        },
+        {
+         "question": "How can we access some class in another class in Java?"
+        },
+        {
+         "question": "Do I need to import java.lang package any time? Why?"
+        },
+        {
+         "question": "Can I import same package/class twice? Will the JVM load the package twice at runtime?"
+        },
+        {
+         "question": "What is the static import?"
+        },
+        {
+         "question": "How many types of exception can occur in a Java program?"
+        },
+        {
+         "question": "What is Exception Handling?"
+        },
+        {
+         "question": "What is the difference between Checked Exception and Unchecked Exception?"
+        },
+        {
+         "question": "What is the base class for Error and Exception?"
+        },
+        {
+         "question": "Is it necessary that each try block must be followed by a catch block?"
+        },
+        {
+         "question": "What is finally block?"
+        },
+        {
+         "question": "Can finally block be used without a catch?"
+        },
+        {
+         "question": "Is there any case when finally will not be executed?"
+        },
+        {
+         "question": "What is the difference between throw and throws?"
+        },
+        {
+         "question": "Can an exception be rethrown?"
+        },
+        {
+         "question": "Can subclass overriding method declare an exception if parent class method doesn't throw an exception?"
+        },
+        {
+         "question": "What is String Pool?"
+        },
+        {
+         "question": "What is the meaning of immutable regarding String?"
+        },
+        {
+         "question": "Why are the objects immutable in java?"
+        },
+        {
+         "question": "How many ways can we create the string object?"
+        },
+        {
+         "question": "What are the differences between String and StringBuffer?"
+        },
+        {
+         "question": "How can we create an immutable class in Java?"
+        },
+        {
+         "question": "What is the purpose of toString() method in Java?"
+        },
+        {
+         "question": "Is there any difference between nested classes and inner classes?"
+        },
+        {
+         "question": "Can we access the non-final local variable, inside the local inner class?"
+        },
+        {
+         "question": "Can a class have an interface?"
+        },
+        {
+         "question": "Can an Interface have a class?"
+        },
+        {
+         "question": "What are wrapper classes?"
+        },
+        {
+         "question": "What are autoboxing and unboxing? When does it occur?"
+        },
+        {
+         "question": "What comes to mind when someone mentions a shallow copy in Java?"
+        },
+        {
+         "question": "What is a singleton class?"
+        },
+        {
+         "question": "SQL Interview Questions"
+        },
+        {
+         "question": "What is SQL?"
+        },
+        {
+         "question": "What are the usages of SQL?"
+        },
+        {
+         "question": "What are the subsets of SQL?"
+        },
+        {
+         "question": "What is a Data Definition Language?"
+        },
+        {
+         "question": "What is a Data Manipulation Language?"
+        },
+        {
+         "question": "What is Data Control Language?"
+        },
+        {
+         "question": "What are tables and fields in the database?"
+        },
+        {
+         "question": "What is a foreign key?"
+        },
+        {
+         "question": "What is a unique key?"
+        },
+        {
+         "question": "What are the different types of database management systems?"
+        },
+        {
+         "question": "What is RDBMS?"
+        },
+        {
+         "question": "What is Normalization in a Database?"
+        },{
+         "question": "What is the primary use of Normalization?"
+        },
+        {
+         "question": "What are the disadvantages of not performing Database Normalization?"
+        },
+        {
+         "question": "What is an inconsistent dependency?"
+        },
+        {
+         "question": "What is Denormalization in a Database?"
+        },
+        {
+         "question": "What are the types of operators available in SQL?"
+        },
+        {
+         "question": "What is view in SQL?"
+        },
+        {
+         "question": "What is an Index in SQL?"
+        },
+        {
+         "question": "Which are the different types of indexes in SQL?"
+        },
+        {
+         "question": "What is the unique Index?"
+        },
+        {
+         "question": "What is Clustered Index in SQL?"
+        },
+        {
+         "question": "What is the Non-Clustered Index in SQL?"
+        },
+        {
+         "question": "What is the difference between SQL, MySQL and SQL Server?"
+        },{
+         "question": "What is the difference between SQL and PL/SQL?"
+        },
+        {
+         "question": "1Is it possible to sort a column using a column alias?"
+        },
+        {
+         "question": "What is the SQL query to display the current date?"
+        },
+        {
+         "question": "Which are the most commonly used SQL joins?"
+        },
+        {
+         "question": "What are the different types of joins in SQL?"
+        },
+        {
+         "question": "What is Inner Join in SQL?"
+        },
+        {
+         "question": "What is Right Join in SQL?"
+        },
+        {
+         "question": "What is Left Join in SQL?"
+        },
+        {
+         "question": "What is Full Join in SQL?"
+        },
+        {
+         "question": "What is a "TRIGGER" in SQL?"
+        },
+        {
+         "question": "What is self-join and what is the requirement of self-join?"
+        },
+        {
+         "question": "What are the set operators in SQL?"
+        },
+        {
+         "question": "What is the difference between BETWEEN and IN condition operators?"
+        },
+        {
+         "question": "What is a constraint? Tell me about its various levels."
+        },
+        {
+         "question": "Write an SQL query to find names of employee start with 'A'?"
+        },
+        {
+         "question": " Write an SQL query to get the third maximum salary of an employee from a table named employee_table."
+        },
+        {
+         "question": "What is the difference between DELETE and TRUNCATE statement in SQL?"
+        },
+        {
+         "question": "What is ACID property in a database?"
+        },
+        {
+         "question": "What is the difference between NULL value, zero and blank space?"
+        },
+        {
+         "question": "What is the usage of SQL functions?"
+        },
+        {
+         "question": "What do you understand by case manipulation functions?"
+        },
+        {
+         "question": "Which are the different case manipulation functions in SQL?"
+        },
+        {
+         "question": "Explain character-manipulation functions?"
+        },
+        {
+         "question": "Which are the different character-manipulation functions in SQL?"
+        },
+        {
+         "question": "What is the usage of NVL() function?"
+        },
+        {
+         "question": "Which function is used to return remainder in a division operator in SQL?"
+        },
+        {
+         "question": "What are the syntax and use of the COALESCE function?"
+        },
+        {
+         "question": "What is the usage of the DISTINCT keyword?"
+        },
+        {
+         "question": "MySQL Interview Questions"
+        },
+        {
+         "question": "What is MySQL?"
+        },
+        {
+         "question": "In which language MySQL has been written?"
+        },
+        {
+         "question": "What are the technical specifications of MySQL?"
+        },
+        {
+         "question": "What is the difference between MySQL and SQL?"
+        },
+        {
+         "question": "What is the difference between the database and the table?"
+        },
+        {
+         "question": "Why do we use the MySQL database server?"
+        },
+        {
+         "question": "What are the different tables present in MySQL?"
+        },
+        {
+         "question": "How to install MySQL?"
+        },
+        {
+         "question": "How to check the MySQL version?"
+        },
+        {
+         "question": "How to add columns in MySQL?"
+        },
+        {
+         "question": "How to delete a table in MySQL?"
+        },
+        {
+         "question": "How to add foreign keys in MySQL?"
+        },
+        {
+         "question": "How to change the table name in MySQL?"
+        },
+        {
+         "question": "How to change the database name in MySQL?"
+        },
+        {
+         "question": "How to import a database in MySQL?"
+        },
+        {
+         "question": "How to change the column name in MySQL?"
+        },
+        {
+         "question": "How to delete columns in MySQL?"
+        },
+        {
+         "question": "How to insert data in MySQL?"
+        },
+        {
+         "question": "How to delete a row in MySQL?"
+        },
+        {
+         "question": "How to join two tables in MySQL?"
+        },
+        {
+         "question": "How to join three tables in MySQL?"
+        },
+        {
+         "question": "How to update the table in MySQL?"
+        },
+        {
+         "question": "What is MySQL Workbench?"
+        },
+        {
+         "question": "How to drop the primary key in MySQL?"
+        },
+        {
+         "question": "How to create a Stored Procedure in MySQL?"
+        },
+        {
+         "question": "How to execute a stored procedure in MySQL?"
+        },
+        {
+         "question": "How to create a View in MySQL?"
+        },
+        {
+         "question": "How to create a Trigger in MySQL?"
+        },
+        {
+         "question": "How to clear screen in MySQL?"
+        },
+        {
+         "question": "How to create a new user in MySQL?"
+        },
+        {
+         "question": "How to check USERS in MySQL?"
+        },
+        {
+         "question": "How to import a CSV file in MySQL?"
+        },
+        {
+         "question": "How to insert Date in MySQL?"
+        },
+        {
+         "question": "How to check database size in MySQL?"
+        },
+        {
+         "question": "How does indexing works in MySQL?"
+        },
+        {
+         "question": "Who owns MySQL?"
+        },
+        {
+         "question": "How to view the database in MySQL?"
+        },
+        {
+         "question": "How to set auto increment in MySQL?"
+        },
+        {
+         "question": "How to find the second highest salary in MySQL?"
+        },
+        {
+         "question": "What is the difference between TRUNCATE and DELETE in MySQL?"
+        },
+        {
+         "question": "How many Triggers are possible in MySQL?"
+        },
+        {
+         "question": "What is the heap table?"
+        },
+        {
+         "question": "What is BLOB and TEXT in MySQL?"
+        },
+        {
+         "question": "What is a trigger in MySQL?"
+        },
+        {
+         "question": "What is the difference between the heap table and the temporary table?"
+        },
+        {
+         "question": "What is the difference between FLOAT and DOUBLE?"
+        },
+        {
+         "question": "What are the advantages of MySQL in comparison to Oracle?"
+        },
+        {
+         "question": "What are the disadvantages of MySQL?"
+        },
+        {
+         "question": "What is the difference between CHAR and VARCHAR?"
+        },
+        {
+         "question": "What is the difference between MySQL_connect and MySQL_pconnect?"
+        },
+        {
+         "question": "What does "i_am_a_dummy flag" do in MySQL?"
+        },
+        {
+         "question": "How to get the current date in MySQL?"
+        },
+        {
+         "question": "What are the security alerts while using MySQL?"
+        },
+        {
+         "question": "How to change a password for an existing user via mysqladmin?"
+        },
+        {
+         "question": "What is the difference between UNIX timestamps and MySQL timestamps?"
+        },
+        {
+         "question": "How to display the nth highest salary from a table in a MySQL query?"
+        },
+        {
+         "question": "What is the MySQL default port number?"
+        },
+        {
+         "question": "What is REGEXP?"
+        },
+        {
+         "question": "How many columns can you create for an index?"
+        },
+        {
+         "question": "What is the difference between NOW() and CURRENT_DATE()?"
+        },
+        {
+         "question": "What is the query to display the top 20 rows?"
+        },
+        {
+         "question": "Write a query to display the current date and time?"
+        },
+        {
+         "question": "What is the save point in MySQL?"
+        },
+        {
+         "question": "What is SQLyog?"
+        },
+        {
+         "question": "How do you backup a database in MySQL?"
+        },
+        {
+         "question": "What are the different column comparison operators in MySQL?"
+        },
+        {
+         "question": "Write a query to count the number of rows of a table in MySQL."
+        },
+        {
+         "question": "Write a query to retrieve a hundred books starting from 20th."
+        },
+        {
+         "question": "Write a query to select all teams that won either 1, 3, 5, or 7 games."
+        },
+        {
+         "question": "What is the default port of MySQL Server?"
+        },
+        {
+         "question": "How is the MyISAM table stored?"
+        },
+        {
+         "question": "What is the usage of ENUMs in MySQL?"
+        },
+        {
+         "question": "What are the advantages of MyISAM over InnoDB?"
+        },
+        {
+         "question": "What are the differences between MySQL_fetch_array(), MySQL_fetch_object(), MySQL_fetch_row()?"
+        },
+        {
+         "question": "What is the difference between mysql_connect and mysql_pconnect?"
+        },
+        {
+         "question": "What is the use of mysql_close()??"
+        },
+        {
+         "question": "What is MySQL data directory?"
+        },
+        {
+         "question": "How do you determine the location of MySQL data directory?"
+        },
+        {
+         "question": "What is the usage of regular expressions in MySQL?"
+        },
+        {
+         "question": "What is the usage of the "i-am-a-dummy" flag in MySQL?"
+        },
+        {
+         "question": "Which command is used to view the content of the table in MySQL?"
+        },
+        {
+         "question": "What is InnoDB?"
+        },
+        {
+         "question": "What is ISAM?"
+        },
+        {
+         "question": "How can we run batch mode in MySQL?"
+        },
+        {
+         "question": "What are federated tables?"
+        },
+        {
+         "question": "What is the difference between primary key and candidate key?"
+        },
+        {
+            "question": "What are DDL, DML, and DCL?"
+        },
+        {
+         "question": "What are the drivers in MySQL?"
+        }
+        ]		
 }
