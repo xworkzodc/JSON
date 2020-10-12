@@ -1,48 +1,38 @@
 {
     "Questions": [
         {
-         "question": "What are the differences between C++ and Java?",	     
-         "answer":"Form To enquiry about any courses"
-        },
-            {
-         "question": "List the features of Java Programming language.",	    
-         "answer":"Form to give feedback regarding onging classes and etc." 
+         "question": "What are the differences between C++ and Java?"
         },
         {
-         "question": "What do you understand by Java virtual machine?",   
-         "answer":"To give Feed Back about Induction and training Program"        
+         "question": "List the features of Java Programming language." 
         },
         {
-         "question": "What is the difference between JDK, JRE, and JVM?",	     
-         "answer":"Form to update the fee details."              
-        },
-            {
-         "question": "How many types of memory areas are allocated by JVM?",	     
-         "answer":"Form For registering in internship programs."           
+         "question": "What do you understand by Java virtual machine?"        
         },
         {
-         "question": "What is JIT compiler?",	     
-         "answer":"Form to apply leave for onging classes."
+         "question": "What is the difference between JDK, JRE, and JVM?"             
+        },
+        {
+         "question": "How many types of memory areas are allocated by JVM?"           
+        },
+        {
+         "question": "What is JIT compiler?"
         },   
         {
-         "question": "What are the main differences between the Java platform and other platforms?",	     
-         "answer":"Form for new Registration."              
+         "question": "What are the main differences between the Java platform and other platforms?"           
         },
         {
-         "question": "What gives Java its 'write once and run anywhere' nature?",	     
-         "answer":"Form to apply leave for onging classes."
+         "question": "What gives Java its 'write once and run anywhere' nature?"
         },
         {
-         "question": "What is classloader?",	     
-         "answer":"Form to apply leave for onging classes."
+         "question": "What is classloader?"   
         },
         {
-         "question": "Is Empty .java file name a valid source file name?",	     
-         "answer":"Form to apply leave for onging classes."
+         "question": "Is Empty .java file name a valid source file name?"	     
+         
         },
         {
-         "question": "What if I write static public void instead of public static void?",	     
-         "answer":"Form to apply leave for onging classes."
+         "question": "What if I write static public void instead of public static void?"     
         },
         {
          "question": "What is the default value of the local variables?"
@@ -487,7 +477,7 @@
          "question": "What is Full Join in SQL?"
         },
         {
-         "question": "What is a "TRIGGER" in SQL?"
+         "question": "What is a TRIGGER in SQL?"
         },
         {
          "question": "What is self-join and what is the requirement of self-join?"
@@ -697,7 +687,7 @@
          "question": "What is the difference between MySQL_connect and MySQL_pconnect?"
         },
         {
-         "question": "What does "i_am_a_dummy flag" do in MySQL?"
+         "question": "What does i_am_a_dummy flag do in MySQL?"
         },
         {
          "question": "How to get the current date in MySQL?"
@@ -784,7 +774,7 @@
          "question": "What is the usage of regular expressions in MySQL?"
         },
         {
-         "question": "What is the usage of the "i-am-a-dummy" flag in MySQL?"
+         "question": "What is the usage of the i-am-a-dummy flag in MySQL?"
         },
         {
          "question": "Which command is used to view the content of the table in MySQL?"
