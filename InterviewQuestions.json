@@ -1,23 +1,23 @@
 {
      "Questions": [
 	     {
-	      "question": "1.What are the differences between C++ and Java?",	     
+	      "question": "What are the differences between C++ and Java?",	     
 	      "answer":"Form To enquiry about any courses"
 	     },
              {
-	      "question": "2.List the features of Java Programming language.",	    
+	      "question": "List the features of Java Programming language.",	    
 	      "answer":"Form to give feedback regarding onging classes and etc." 
 	     },
 	     {
-	      "question": "3.What do you understand by Java virtual machine?",   
+	      "question": "What do you understand by Java virtual machine?",   
 	      "answer":"To give Feed Back about Induction and training Program"        
 	     },
 	     {
-	      "question": "4.What is the difference between JDK, JRE, and JVM?",	     
+	      "question": "What is the difference between JDK, JRE, and JVM?",	     
 	      "answer":"Form to update the fee details."              
 	     },
              {
-	      "question": "5.How many types of memory areas are allocated by JVM?",	     
+	      "question": "How many types of memory areas are allocated by JVM?",	     
 	      "answer":"Form For registering in internship programs."           
 	     },
 	     {
