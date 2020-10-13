@@ -1,9 +1,7 @@
 {
     "Questions": [
         {
-         "heading": "Java Interview Question"
-        },
-        {
+         "heading": "Java Interview Question",
          "question": "What are the differences between C++ and Java?"
         },
         {
@@ -380,9 +378,7 @@
          "question": "What is a singleton class?"
         },
         {
-         "heading": "SQL Interview Questions"
-        },
-        {
+         "heading": "SQL Interview Questions",
          "question": "What is SQL?"
         },
         {
@@ -537,9 +533,7 @@
          "question": "What is the usage of the DISTINCT keyword?"
         },
         {
-         "heading": "MySQL Interview Questions"
-        },
-        {
+         "heading": "MySQL Interview Questions",   
          "question": "What is MySQL?"
         },
         {
