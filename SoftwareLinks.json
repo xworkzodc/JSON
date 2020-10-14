@@ -4,7 +4,25 @@
 	      "name": "JDK 8",	     
 	      "description":"Java SE Development Kit 8 Download for windows 64bit.",
               "directLink":"https://drive.google.com/uc?export=download&confirm=Xzdq&id=1VP6p3ANyAqFJh-7Ae01KBEWL0N_rmsIG",
+	      "extranalLink":"http://www.javadecompilers.com/jad"		     
+	     },
+	     {
+	      "name": "JAD Decompiler",	     
+	      "description":"Jad 1.5.8g for Windows 9x/NT/2000 on Intel platform.",
+              "directLink":"https://drive.google.com/u/1/uc?export=download&confirm=QM-J&id=1VP6p3ANyAqFJh-7Ae01KBEWL0N_rmsIG",
 	      "extranalLink":"https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html"		     
+	     },
+	     {
+	      "name": "Notepad++",	     
+	      "description":"Notepad++ version 7 for Windows 64 bit.",
+              "directLink":"https://drive.google.com/u/1/uc?export=download&confirm=QM-J&id=1VP6p3ANyAqFJh-7Ae01KBEWL0N_rmsIG",
+	      "extranalLink":"https://notepad-plus-plus.org/downloads/"		     
+	     },
+	      {
+	      "name": "Git Bash",	     
+	      "description":"You are downloading the latest (2.28.0) 64-bit version of Git for Windows.",
+              "directLink":"https://drive.google.com/u/3/uc?id=1npiwy38NaelHAZqIGcFwdmmJTRhYCShr&export=download",
+	      "extranalLink":"https://git-scm.com/downloads"		     
 	     },
 	     {
 	      "name": "Eclipse IDE",	     
