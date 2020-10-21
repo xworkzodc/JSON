@@ -1,0 +1,78 @@
+{
+    "Questions": [ {
+           "question": "What are the different types of joins in SQL?"
+           },
+          {
+           "question": "What is Inner Join in SQL?"
+          },
+          {
+           "question": "What is Right Join in SQL?"
+          },
+          {
+           "question": "What is Left Join in SQL?"
+          },
+          {
+           "question": "What is Full Join in SQL?"
+          },
+          {
+           "question": "What is a TRIGGER in SQL?"
+          },
+          {
+           "question": "What is self-join and what is the requirement of self-join?"
+          },
+          {
+           "question": "What are the set operators in SQL?"
+          },
+          {
+           "question": "What is the difference between BETWEEN and IN condition operators?"
+          },
+          {
+           "question": "What is a constraint? Tell me about its various levels."
+          },
+          {
+           "question": "Write an SQL query to find names of employee start with 'A'?"
+          },
+          {
+           "question": " Write an SQL query to get the third maximum salary of an employee from a table named employee_table."
+          },
+          {
+           "question": "What is the difference between DELETE and TRUNCATE statement in SQL?"
+          },
+          {
+           "question": "What is ACID property in a database?"
+          },
+          {
+           "question": "What is the difference between NULL value, zero and blank space?"
+          },
+          {
+           "question": "What is the usage of SQL functions?"
+          },
+          {
+           "question": "What do you understand by case manipulation functions?"
+          },
+          {
+           "question": "Which are the different case manipulation functions in SQL?"
+          },
+          {
+           "question": "Explain character-manipulation functions?"
+          },
+          {
+           "question": "Which are the different character-manipulation functions in SQL?"
+          },
+          {
+           "question": "What is the usage of NVL() function?"
+          },
+          {
+           "question": "Which function is used to return remainder in a division operator in SQL?"
+          },
+          {
+           "question": "What are the syntax and use of the COALESCE function?"
+          },
+          {
+           "question": "What is the usage of the DISTINCT keyword?"
+          },
+          {
+            "question": "What is SQLyog?"
+           }
+          ]
+          }
