@@ -1,0 +1,49 @@
+{
+    "Questions": [ 
+   {
+    "question": "Is there a way to access an iteration-counter in Java's for-each loop?"
+   },  
+   {
+    "question": "What are the Advantages of declaring loop variable as final in enhanced for-loop"
+   },
+   {
+    "question": "Does returning a value from the loop body break the loop?"
+   },
+   {
+    "question": "What is the difference between ++i and i++ under increment operators?"
+   },
+   {
+    "question": "What happens when we forget break in switch case?"
+   },
+   {
+    "question": "What types of loops does Java support?"
+   },
+   {
+    "question": "How will you exit anticipatedly from a loop?."
+   },
+   {
+    "question": "Which is considered as a selection statement?"
+   },
+   {
+    "question": "What is the Difference between dead code and unreachable code in Java."
+   },
+   {
+    "question": "Can you create switch statement using enum?"
+   },
+   {
+    "question": "Describe the if-then and if-then-else statements. What types of expressions can be used as conditions?"
+   },
+   {
+    "question": "What is an enhanced for loop?"
+   },
+   {
+    "question": "What is the difference between an unlabeled and a labeled break statement?"
+   },
+   {
+    "question": " In which situations the finally block may not be executed?"
+   },
+   {
+    "question": "What is the difference between an unlabeled and a labeled continue statement?"
+   }
+  ]
+  }

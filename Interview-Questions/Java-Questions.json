@@ -1,0 +1,62 @@
+{
+    "Questions": [ 
+   {
+    "question": "What are the differences between C++ and Java?"
+   },
+   {
+    "question": "List the features of Java Programming language." 
+   },
+   {
+    "question": "What do you understand by Java virtual machine?"        
+   },
+   {
+    "question": "What is the difference between JDK, JRE, and JVM?"             
+   },
+   {
+    "question": "How many types of memory areas are allocated by JVM?"           
+   },
+   {
+    "question": "What is JIT compiler?"
+   },   
+   {
+    "question": "What are the main differences between the Java platform and other platforms?"           
+   },
+   {
+    "question": "What gives Java its 'write once and run anywhere' nature?"
+   },
+   {
+    "question": "What is classloader?"   
+   },
+   {
+    "question": "Is Empty .java file name a valid source file name?"	     
+    
+   },
+   {
+    "question": "What if I write static public void instead of public static void?"     
+   },
+   {
+    "question": "What is the default value of the local variables?"
+   },
+   {
+    "question": "What are the various access specifiers in Java?"
+   },
+   {
+    "question": "What is the purpose of static methods and variables?"
+   },
+   {
+    "question": "What are the advantages of Packages in Java?"
+   },
+   {
+    "question": "What is object-oriented paradigm?"
+   },
+   {
+    "question": "What is an object?"
+   },
+   {
+    "question": "What is the difference between an object-oriented programming language and object-based programming language?"
+   },
+   {
+    "question": "What will be the initial value of an object reference which is defined as an instance variable?"
+   }
+ ]
+}

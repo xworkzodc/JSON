@@ -1,0 +1,70 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is an exception?"
+   },  
+   {
+    "question": "How are the exceptions handled in Java?"
+   },
+   {
+    "question": "Exceptions are defined in which java package?"
+   },
+   {
+    "question": "Explain the exception hierarchy in java."
+   },
+   {
+    "question": "What is Runtime Exception or unchecked exception?"
+   },
+   {
+    "question": "What is a checked exception?"
+   },
+   {
+    "question": "What is difference between an error and exception?"
+   },
+   {
+    "question": "What is the use of 'throws' keyword?"
+   },
+   {
+    "question": "What is a 'throw' keyword?"
+   },
+   {
+    "question": "What is difference between 'ClassNotFoundException' and 'NoClassDefFoundError'?"
+   },
+   {
+    "question": "What are the possible combinations to write try, catch and finally block?"
+   },
+   {
+    "question": "When to make a custom checked Exception or custom unchecked Exception?"
+   },
+   {
+    "question": "How to create a custom Exception?"
+   },
+   {
+    "question": "What is StackOverflowError?"
+   },
+   {
+    "question": "Why did the designers decide to force a method to specify all uncaught checked exceptions that can be thrown within its scope?"
+   },
+   {
+    "question": "Once the control switches to the catch block does it return back to the try block to execute the balance code?"
+   },
+   {
+    "question": "Where is the clean up code like release of resources put in try-catch-finally block and why?"
+   },
+   {
+    "question": "Does the order of the catch blocks matter if the exceptions caught by them are not subtype or supertype of each other?"
+   },
+   {
+    "question": "Is it valid to have a try block without catch or finally?"
+   },
+   {
+    "question": "How do you get the descriptive information about the Exception occurred during the program execution?"
+   },
+   {
+    "question": "Why it is not considered a good practice to write a single catch all handler instead of catch all the exceptions?"
+   },
+   {
+    "question": "Why it is not considered a good practice to write a single catch all handler instead of catch all the exceptions?"
+   }
+  ]
+  }

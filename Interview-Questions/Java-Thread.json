@@ -1,0 +1,43 @@
+{
+    "Questions": [ 
+   {
+    "question": "What are the different ways to define threads in Java programming language?"
+   },  
+   {
+    "question": "Describe the life-cycle of threads. What are the different states of threads?"
+   },
+   {
+    "question": "How does the thread transition from one state to the other?"
+   },
+   {
+    "question": "How do you pause a thread from executing for a certain period of time?"
+   },
+   {
+    "question": "What is the function of join() method in Thread class in Java programming language?"
+   },
+   {
+    "question": "What is the function of sleep() method in Thread class in Java programming language?"
+   },
+   {
+    "question": "What is the function of yeild() method in Thread class in Java programming language?"
+   },
+   {
+    "question": "In the case of multiple threads, how do you prevent data corruption of shared data?"
+   },
+   {
+    "question": "What are locks or monitors in Java programming language?"
+   },
+   {
+    "question": "What do you understand by Reentrant Synchronization in Java programming language?"
+   },
+   {
+    "question": "What is the function of wait(), notify() and notifyAll() methods in Java programming language?"
+   },
+   {
+    "question": " What happens when a thread cannot acquire a lock on an object?"
+   },
+   {
+    "question": "Describe synchronization in respect to multithreading?"
+   }
+  ]
+  }

@@ -1,0 +1,172 @@
+[
+  { "id": "Java",
+    "parent":"#",
+    "text": "Java Questions",
+    "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json",
+    "type": "root",
+    "state": {
+           "selected": "true"   
+           }
+  },
+  { "id": "SQL",
+    "parent":"#",
+   "text": "SQL Questions",
+   "type": "root",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/SqlQuestions.json"
+  },
+  { "id": "MySQL",
+    "parent":"#",
+   "text": "MySQL Questions",
+   "type": "root",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/MsqlBasicQuestions.json"
+  },
+  { "id": "Java-Child1",
+    "parent":"Java",
+    "text": "Core Java Basic",
+    "type": "child",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+ },
+ { "id": "Java-Child1-Super1",
+  "parent":"Java-Child1",
+  "text": "Java DataTypes",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+  },
+  { "id": "Java-Child1-Super2",
+    "parent":"Java-Child1",
+    "text": "Java Variables",
+    "type": "superchild",
+    "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+  },
+  { "id": "Java-Child1-Super3",
+    "parent":"Java-Child1",
+    "text": "Java Modifiers",
+    "type": "superchild",
+    "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+  },
+  { "id": "Java-Child1-Super4",
+    "parent":"Java-Child1",
+    "text": "Java Operators",
+    "type": "superchild",
+    "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+  },
+  { "id": "Java-Child1-Super5",
+    "parent":"Java-Child1",
+    "text": "Java Control Statements",
+    "type": "superchild",
+    "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+  },
+  { "id": "Java-Child1-Super6",
+    "parent":"Java-Child1",
+    "text": "Java Methods",
+    "type": "superchild",
+    "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+  },
+  
+
+ { "id": "Java-Child2", 
+ "parent":"Java", 
+ "text": "Java OOPS",
+ "type": "child",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaThreadQuestions.json"
+ },
+ { "id": "Java-Child2-Super1",
+  "parent":"Java-Child2",
+  "text": "Java Constructors",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+},
+{ "id": "Java-Child2-Super2",
+  "parent":"Java-Child2",
+  "text": "Java Inheritance",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+},
+{ "id": "Java-Child2-Super3",
+  "parent":"Java-Child2",
+  "text": "Java Polymorphism",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+},
+{ "id": "Java-Child2-Super4",
+  "parent":"Java-Child2",
+  "text": "Java Abstraction",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+},
+{ "id": "Java-Child2-Super5",
+  "parent":"Java-Child2",
+  "text": "Java Encapsulation",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+},
+{ "id": "Java-Child2-Super6",
+  "parent":"Java-Child2",
+  "text": "Java Interface",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+},
+
+ { "id": "Java-Child3", 
+   "parent":"Java", 
+   "text": "Java Advance",
+   "type": "child",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
+ },
+ { "id": "Java-Child3-Super1", 
+  "parent":"Java-Child3", 
+  "text": "Java Arrays",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
+ },
+ { "id": "Java-Child3-Super2", 
+  "parent":"Java-Child3", 
+  "text": "Java String",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
+ },
+ { "id": "Java-Child3-Super3", 
+  "parent":"Java-Child3", 
+  "text": "Java Collections",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
+ },
+ { "id": "Java-Child3-Super4", 
+  "parent":"Java-Child3", 
+  "text": "Java Exceptions",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
+ },
+ { "id": "Java-Child3-Super5", 
+  "parent":"Java-Child3", 
+  "text": "Java Thread",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
+ },
+ { "id": "Java-Child3-Super6", 
+  "parent":"Java-Child3", 
+  "text": "Java Files",
+  "type": "superchild",
+  "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
+ },
+
+ { "id": "SQL-Child1", 
+   "parent":"SQL", 
+   "text": "SQL Basic",
+   "type": "child",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/SqlQuestions.json"
+ },
+ { "id": "SQL-Child2", 
+  "parent":"SQL", 
+   "text": "SQL Advance",
+   "type": "child",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/SqlCrudQuestions.json"
+ },
+
+ { "id": "MySQL-Child1 ", 
+   "parent":"MySQL", 
+   "text": "MySQL Basic",
+   "type": "child",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/MsqlBasicQuestions.json"
+ }
+]

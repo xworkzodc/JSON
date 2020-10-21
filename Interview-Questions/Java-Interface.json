@@ -1,0 +1,55 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is Interface ?"
+   },  
+   {
+    "question": "Main features of Interface ?"
+   },
+   {
+    "question": "Can an Interface be final ?"
+   },
+   {
+    "question": "What is marker interface ?"
+   },
+   {
+    "question": "What is difference between abstract class and interface ?"
+   },
+   {
+    "question": "How to implement Interface in Java ?"
+   },
+   {
+    "question": "Can a class be defined inside an Interface?"
+   },
+   {
+    "question": "Advantages of Inner Interface?"
+   },
+   {
+    "question": "What are the access modifiers applicable for the nested interface declared inside a class?"
+   },
+   {
+    "question": "Can an interface inherit/extend multiple interface?"
+   },
+   {
+    "question": "Example of a nested interface"
+   },
+   {
+    "question": "Can an Interface implement another interface?"
+   },
+   {
+    "question": "What is a Marker(Tag) Interface?"
+   },
+   {
+    "question": "Are Nested interfaces declared static?"
+   },
+   {
+    "question": "can we have non-static inner interface?"
+   },
+   {
+    "question": "Should the nested interface must be public?"
+   },
+   {
+    "question": "How will you call a default method of an interface in a class?"
+   }
+  ]
+  }

@@ -1,0 +1,40 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is Encapsulation ?"
+   },  
+   {
+    "question": "Why use Encapsulation ?"
+   },
+   {
+    "question": "Real life example of Encapsulation ?"
+   },
+   {
+    "question": "Advantage of Encapsulation in java ?"
+   },
+   {
+    "question": "What are the features of encapsulation ?"
+   },
+   {
+    "question": "What is difference between Encapsulation And Abstraction ?"
+   },
+   {
+    "question": "Why it's a good practice to expose member elements through getter methods ?"
+   },
+   {
+    "question": "How can we hide a class in Java ?"
+   },
+   {
+    "question": "Mention some important points about encapsulation in Java"
+   },
+   {
+    "question": "Explain design pattern based on encapsulation in Java"
+   },
+   {
+    "question": "What are the benefits of encapsulation?"
+   },
+   {
+    "question": "How can the variables of the EncapTest class be accessed?"
+   }
+  ]
+  }

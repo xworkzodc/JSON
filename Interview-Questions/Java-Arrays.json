@@ -1,0 +1,52 @@
+{
+    "Questions": [ 
+   {
+    "question": "What are arrays in Java programming language?"
+   },  
+   {
+    "question": "How do you declare, instantiate and initialize arrays?"
+   },
+   {
+    "question": "What are multi-dimensional arrays?"
+   },
+   {
+    "question": "How do you declare, instantiate and initialize multi-dimensional arrays?"
+   },
+   {
+    "question": "How do you find the size of arrays?"
+   },
+   {
+    "question": "What are the default initialization values of elements in an array?"
+   },
+   {
+    "question": "How do you reverse the elements in an array?"
+   },
+   {
+    "question": "What happens if you try to access an element with an index greater than the size of the array?"
+   },
+   {
+    "question": "How do I initialize a String array?"
+   },
+   {
+    "question": "How do I create a list from Array which is completely independent of the original array?"
+   },
+   {
+    "question": "What is the index of the first element in an array?"
+   },
+   {
+    "question": "How do you print the content of an array in Java?"
+   },
+   {
+    "question": "How do you print the content of a multi dimensional array in Java?"
+   },
+   {
+    "question": "What is the tradeoff between using an unordered array versus an ordered array?"
+   },
+   {
+    "question": "Which algorithm does Arrays.sort use in Java?"
+   },
+   {
+    "question": "Difference between Arrays.sort and Arrays.parallelSort in Java 8."
+   }
+  ]
+  }

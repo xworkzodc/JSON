@@ -1,0 +1,70 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is a Constructor?"
+   },  
+   {
+    "question": "Rules for creating a Java constructor."
+   },
+   {
+    "question": "What are Types of Java constructor Java?"
+   },
+   {
+    "question": "Explain method chaining in Java.?"
+   },
+   {
+    "question": "What is Java Default Constructor. in Java?"
+   },
+   {
+    "question": "What is Java parameterized constructor.s in Java?"
+   },
+   {
+    "question": "Advantages of parameterized constructor?"
+   },
+   {
+    "question": "What is the Purpose of default constructor?"
+   },
+   {
+    "question": "What is Constructor Overloading in Java?"
+   },
+   {
+    "question": "What is Copy-Constructor?"
+   },
+   {
+    "question": "Difference between constructor and method in Java?"
+   },
+   {
+    "question": "What are pass by reference and pass by value?"
+   },
+   {
+    "question": "Can constructor perform other tasks instead of initialization?"
+   },
+   {
+    "question": "Can a constructor call/invoke a static method?"
+   },
+   {
+    "question": "Can a constructor invoke a non-static/instance method?"
+   },
+   {
+    "question": "Can abstract class have constructors?"
+   },
+   {
+    "question": "What is the access modifier of the Default constructor?"
+   },
+   {
+    "question": "Can the class with private constructor be extended?"
+   },
+   {
+    "question": "Can the inner class with private constructor be extended??"
+   },
+   {
+    "question": "Can you use this() and super() both together in a constructor"
+   },
+   {
+    "question": "Is constructor inherited?"
+   },
+   {
+    "question": "Can we call the constructor of a class more than once for an object in Java"
+   }
+  ]
+  }
