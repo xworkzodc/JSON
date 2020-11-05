@@ -16,7 +16,7 @@
   },
   { "id": "Java-Child1",
     "parent":"Java",
-    "text": "Core Basic",
+    "text": "Core",
     "type": "child",
    "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-11/Interview-Questions/Java-Intruduction-Questions.json"
  },
