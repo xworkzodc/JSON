@@ -1,13 +1,21 @@
 {
   "Batches": [
      {
-      "Upcoming": [  
+      "Upcoming": [ 
         {
           "courseName": "Core Java",
-          "startDate": "08-OCT-2020",
+          "startDate": "09-NOV-2020",
+          "time": "09:00 AM",
+          "type": "Offline Upcoming",
+          "facultyName": "Ashok",
+           "placed": 0
+        },
+        {
+          "courseName": "Frameworks",
+          "startDate": "23-NOV-2020",
           "time": "8:00 AM",
           "type": "Online Upcoming",
-          "facultyName": "Ashok",
+          "facultyName": "Omkar",
            "placed": 0
         }
       ]
@@ -16,11 +24,19 @@
       "Started": [
         {
           "courseName": "Core Java",
-          "startDate": "2-NOV-2020",
+          "startDate": "02-NOV-2020",
           "time": "09:00 AM",
           "type": "Offline Started",
           "facultyName": "Devendra",
           "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "08-OCT-2020",
+          "time": "8:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Ashok",
+           "placed": 0
         },
         {
           "courseName": "JEE",
@@ -68,8 +84,8 @@
       "Ongoing": [
         {
           "courseName": "Core Java",
-          "startDate": "02-NOV-2020",
-          "time": "08:00 AM",
+          "startDate": "22-OCT-2020",
+          "time": "07:00 AM",
           "type": "Online Ongoing",
           "facultyName": "Kiran",
           "placed": 0
