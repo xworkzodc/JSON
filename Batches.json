@@ -503,20 +503,20 @@
           "placed": 4
         },
         {
-          "courseName": "Angular 6",
-          "startDate": "12-JAN-2019",
-          "time": "9:30 AM",
-          "type": "Completed",
-          "facultyName": "Harsha",
-          "placed": 0
-        },
-        {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "22-NOV-2018",
           "time": "8:00 AM",
           "type": "Completed",
           "facultyName": "Omkar",
           "placed": 10
+        },
+        {
+          "courseName": "Angular 6",
+          "startDate": "12-JAN-2019",
+          "time": "9:30 AM",
+          "type": "Completed",
+          "facultyName": "Harsha",
+          "placed": 0
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
