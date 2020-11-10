@@ -1,0 +1,55 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is Abstraction ?"
+   },  
+   {
+    "question": "How achieve Abstraction in Java ?"
+   },
+   {
+    "question": "Real life example of Abstraction ?"
+   },
+   {
+    "question": "Can I create an abstract variable?"
+   },
+   {
+    "question": "What is an abstract class?"
+   },
+   {
+    "question": "Can an abstract class be instantiated?"
+   },
+   {
+    "question": "Can a abstract class be defined without any abstract methods?"
+   },
+   {
+    "question": "What is the difference between an Interface and an Abstract class?"
+   },
+   {
+    "question": "Can an abstract method be declared static in Java?"
+   },
+   {
+    "question": "Can abstract class have Constructor?"
+   },
+   {
+    "question": "Can abstract class implement an interface in Java?"
+   },
+   {
+    "question": "Can an abstract class be final in Java?"
+   },
+   {
+    "question": "Can abstract class have a static method in Java?"
+   },
+   {
+    "question": "Can an abstract class have the main method?"
+   },
+   {
+    "question": "Can we call an abstract method from a non-abstract method?"
+   },
+   {
+    "question": "Can we mark a local inner class as abstract?"
+   },
+   {
+    "question": "Can abstract method include throws clause?"
+   }
+  ]
+  }

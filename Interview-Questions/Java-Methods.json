@@ -1,0 +1,46 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is virtual function/method in Java?"
+   },  
+   {
+    "question": "Can we define a static method in a Java interface?"
+   },
+   {
+    "question": "What is synthetic method in Java?"
+   },
+   {
+    "question": "Explain method chaining in Java.?"
+   },
+   {
+    "question": "What is bridge method in Java?"
+   },
+   {
+    "question": "Can we Overload or Override static methods in Java?"
+   },
+   {
+    "question": "How do I extend Interfaces that contain Default Methods?"
+   },
+   {
+    "question": "Why the main method is static in java?"
+   },
+   {
+    "question": "What is meant by Method Overriding?"
+   },
+   {
+    "question": "What happens if you remove static modifier from the main method?"
+   },
+   {
+    "question": "Can we overload main() method?"
+   },
+   {
+    "question": "Can you define a method with the same name as the class?"
+   },
+   {
+    "question": "What is the scope of default methods in Java8?"
+   },
+   {
+    "question": "How to invoke a static method of an interface?"
+   }
+  ]
+  }

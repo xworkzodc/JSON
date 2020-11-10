@@ -1,0 +1,70 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is a Java Collection Framework?"
+   },  
+   {
+    "question": "Why use Java collection?"
+   },
+   {
+    "question": "Write Methods of Collection interface"
+   },
+   {
+    "question": "Explain Java Collection Framework Hierarchy."
+   },
+   {
+    "question": "Can we use any class as Map key?"
+   },
+   {
+    "question": "What are the differences between Queue and Stack in java?"
+   },
+   {
+    "question": "How can we make HashMap synchronized?"
+   },
+   {
+    "question": "What is NavigableMap in Java ? What are its benefits over Map?"
+   },
+   {
+    "question": "What is the Difference between the Iterator and ListIterator?"
+   },
+   {
+    "question": "Difference between Vector and ArrayList?"
+   },
+   {
+    "question": "How to make a collection read only?"
+   },
+   {
+    "question": "What is BlockingQueue?"
+   },
+   {
+    "question": "When do you use ConcurrentHashMap in Java"
+   },
+   {
+    "question": "When do you use ConcurrentHashMap in Java"
+   },
+   {
+    "question": "Which collection classes provide random access of it’s elements?"
+   },
+   {
+    "question": "What will happen if we put a key object in a HashMap which is already there ?"
+   },
+   {
+    "question": "What will be the problem if you don't override hashcode() method ?"
+   },
+   {
+    "question": "How to convert a string array to arraylist?"
+   },
+   {
+    "question": "How Fail Fast Iterator works internally?"
+   },
+   {
+    "question": "What is the main objective of streaming and lambda in Java8?"
+   },
+   {
+    "question": "What is the Difference between IntStream.rangeClosed() and range() in Java 8."
+   },
+   {
+    "question": "How to avoid ConcurrentModificationException when removing while Iterating through a Collection?"
+   }
+  ]
+  }

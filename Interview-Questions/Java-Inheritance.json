@@ -1,0 +1,55 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is a Inheritance?"
+   },  
+   {
+    "question": "What is a composition?"
+   },
+   {
+    "question": "How many types of inheritances available in Java programming language?"
+   },
+   {
+    "question": "What is Super Keyword in Java?"
+   },
+   {
+    "question": "What is the difference between Inheritance and Encapsulation?"
+   },
+   {
+    "question": "Why do we need inheritance ?"
+   },
+   {
+    "question": "What type of inheritance does java support?"
+   },
+   {
+    "question": "Explain inheritance with an example."
+   },
+   {
+    "question": "Can a class extend more than one class?"
+   },
+   {
+    "question": "What is Copy-Constructor?"
+   },
+   {
+    "question": "Can I access the sub class methods using a super class object?"
+   },
+   {
+    "question": "What is the difference between Inheritance and Association?"
+   },
+   {
+    "question": "What is the difference between Inheritance and Polymorphism?"
+   },
+   {
+    "question": "Can a Class Extend Itself in Java?"
+   },
+   {
+    "question": "How do you restrict a member of a class from inheriting to it’s sub classes?"
+   },
+   {
+    "question": "Are static members inherited to sub classes in Java?"
+   },
+   {
+    "question": "Is constructor inherited?"
+   }
+  ]
+  }

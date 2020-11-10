@@ -1,0 +1,31 @@
+{
+    "Questions": [ 
+   {
+    "question": "Which class is used to create a directory in Java"
+   },  
+   {
+    "question": "How do you create a file and directory in Java?"
+   },
+   {
+    "question": "What is the difference between InputStream and OutputStream in Java?"
+   },
+   {
+    "question": "What are the basic methods in File class?"
+   },
+   {
+    "question": "How do you handle directories in Java?"
+   },
+   {
+    "question": "How do you write to a file using FileWriter class?"
+   },
+   {
+    "question": "How do you read from a file using FileReader class?"
+   },
+   {
+    "question": "What is the use of BufferedWriter and BufferedReader classes in Java?"
+   },
+   {
+    "question": "What is the use of PrintWriter class?"
+   }
+  ]
+  }

@@ -1,0 +1,37 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is polymorphism and what are the types of it?"
+   },  
+   {
+    "question": "What is method overriding?"
+   },
+   {
+    "question": "What is method overloading?"
+   },
+   {
+    "question": "Difference between method overloading and overriding?"
+   },
+   {
+    "question": "What is static and dynamic binding?"
+   },
+   {
+    "question": "Why method overloading is not possible by changing the return type in java?"
+   },
+   {
+    "question": "can we overload main() method?"
+   },
+   {
+    "question": "What is run time polymorphism and compile time polymorphism?"
+   },
+   {
+    "question": "How to achieve polymorphism in Java?"
+   },
+   {
+    "question": "How to achieve static polymorphism in Java ?"
+   },
+   {
+    "question": "How to achieve dynamic polymorphism in Java ?"
+   }
+  ]
+  }

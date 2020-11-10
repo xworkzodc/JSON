@@ -1,0 +1,43 @@
+{
+    "Questions": [ 
+   {
+    "question": "What Is The Variable?"
+   },  
+   {
+    "question": "How To Declare A Variable In Java?"
+   },
+   {
+    "question": "How To Assign A Value To Variable?"
+   },
+   {
+    "question": "What Is Variable Initialization?"
+   },
+   {
+    "question": "Can We Declare And Initialize A Variable Together?"
+   },
+   {
+    "question": "Why Is Specifying DataType Mandatory In Java?"
+   },
+   {
+    "question": "How Many Types Of Datatypes Are There In Java?"
+   },
+   {
+    "question": "How Can You Create Constants In Java?"
+   },
+   {
+    "question": "What are local variables in Java programming language?"
+   },
+   {
+    "question": "What are block variables in Java programming language?"
+   },
+   {
+    "question": "What are final variables in Java programming language?"
+   },
+   {
+    "question": "What are transient variables in Java programming language?"
+   },
+   {
+    "question": "What are volatile variables in Java programming language?"
+   }
+  ]
+  }

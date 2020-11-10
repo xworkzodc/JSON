@@ -1,0 +1,34 @@
+{
+  "Questions": [ 
+ {
+  "question": "What are the data types in Java ?"
+ },  
+ {
+  "question": "What are the primitive data types in Java ?"
+ },
+ {
+  "question": "What are the non-primitive data types in Java ?"
+ },
+ {
+  "question": "What is Autoboxing and Unboxing?"
+ },
+ {
+  "question": "Is Java primitive data type stored on stack or heap?"
+ },
+ {
+  "question": "What is the default value of local variables in Java?"
+ },
+ {
+  "question": "Can you compare a boolean with an int variable in Java?"
+ },
+ {
+  "question": "Difference between double and float variables in Java."
+ },
+ {
+  "question": "How primitive variables passed to methods - by value or by reference?"
+ },
+ {
+  "question": "In Java every data type requires some bytes of memory, How many bytes void data type requires?"
+ }
+]
+}

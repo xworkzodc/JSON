@@ -1,0 +1,40 @@
+{
+    "Questions": [ 
+   {
+    "question": "What is the difference between the >> and >>> operators?"
+   },  
+   {
+    "question": "What is the difference between the Boolean & operator and the && operator?"
+   },
+   {
+    "question": "Explain Diamond Operator in Java.?"
+   },
+   {
+    "question": "What is the difference between ++i and i++ under increment operators?"
+   },
+   {
+    "question": "What are Bitwise Logical Operators?"
+   },
+   {
+    "question": "What is a Modulus Operator?"
+   },
+   {
+    "question": "Show the usage of Modulus Operator with an example program."
+   },
+   {
+    "question": "What are Compound Assignment Operators?"
+   },
+   {
+    "question": "What is the role of Bitwise NOT Operator (~)? Give an example?"
+   },
+   {
+    "question": "Which Java operator is right associative?"
+   },
+   {
+    "question": "Can a double value be cast to a byte?"
+   },
+   {
+    "question": "Define short circuit operators?"
+   }
+  ]
+  }

@@ -1,0 +1,83 @@
+{
+    "Questions": [
+        {
+     "question": "What is SQL?"
+    },
+    {
+     "question": "What are the usages of SQL?"
+    },
+    {
+     "question": "What are the subsets of SQL?"
+    },
+    {
+     "question": "What is a Data Definition Language?"
+    },
+    {
+     "question": "What is a Data Manipulation Language?"
+    },
+    {
+     "question": "What is Data Control Language?"
+    },
+    {
+     "question": "What are tables and fields in the database?"
+    },
+    {
+     "question": "What is a foreign key?"
+    },
+    {
+     "question": "What is a unique key?"
+    },
+    {
+     "question": "What are the different types of database management systems?"
+    },
+    {
+     "question": "What is RDBMS?"
+    },
+    {
+     "question": "What is Normalization in a Database?"
+    },{
+     "question": "What is the primary use of Normalization?"
+    },
+    {
+     "question": "What are the disadvantages of not performing Database Normalization?"
+    },
+    {
+     "question": "What is an inconsistent dependency?"
+    },
+    {
+     "question": "What is Denormalization in a Database?"
+    },
+    {
+     "question": "What are the types of operators available in SQL?"
+    },
+    {
+     "question": "What is view in SQL?"
+    },
+    {
+     "question": "What is an Index in SQL?"
+    },
+    {
+     "question": "Which are the different types of indexes in SQL?"
+    },
+    {
+     "question": "What is the unique Index?"
+    },
+    {
+     "question": "What is Clustered Index in SQL?"
+    },
+    {
+     "question": "What is the Non-Clustered Index in SQL?"
+    },
+    {
+        "question": "What is the difference between SQL, MySQL and SQL Server?"
+       },{
+        "question": "What is the difference between SQL and PL/SQL?"
+       },
+       {
+        "question": "1Is it possible to sort a column using a column alias?"
+       },
+       {
+        "question": "What is the SQL query to display the current date?"
+       }
+    ]
+  }

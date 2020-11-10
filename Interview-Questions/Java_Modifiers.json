@@ -1,0 +1,49 @@
+{
+    "Questions": [ 
+   {
+    "question": "What Is Different modifiers and its access levels?"
+   },  
+   {
+    "question": "Can an inner class be declared private?"
+   },
+   {
+    "question": "Does the order of public and static declaration is important in main() method?"
+   },
+   {
+    "question": "Can a class be declared private?"
+   },
+   {
+    "question": "What are access modifiers?"
+   },
+   {
+    "question": "What are non-access modifiers in java?"
+   },
+   {
+    "question": "Where protected is used?"
+   },
+   {
+    "question": "Explain the scope of a protected method."
+   },
+   {
+    "question": "How do I prevent my class to be not inherited?"
+   },
+   {
+    "question": "can an abstract class be final?"
+   },
+   {
+    "question": "Can a class be declared as static?"
+   },
+   {
+    "question": "Explain the final keyword in Java.?"
+   },
+   {
+    "question": "Explain the native keyword in Java?"
+   },
+   {
+    "question": "What is the default implementation of hashcode method??"
+   },
+   {
+    "question": "Modifiers that disallow overriding when applied?"
+   }
+  ]
+  }

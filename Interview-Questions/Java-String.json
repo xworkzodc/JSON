@@ -1,0 +1,52 @@
+{
+    "Questions": [ 
+   {
+    "question": "Can String be referred as a datatype?"
+   },  
+   {
+    "question": "What is toString() method?"
+   },
+   {
+    "question": "Difference between String, StringBuffer and StringBuilder."
+   },
+   {
+    "question": "Is String interning an example of flyweight design pattern?"
+   },
+   {
+    "question": "All the String objects created using String literals are stored in String pool?"
+   },
+   {
+    "question": "How to create our own immutable class in Java?"
+   },
+   {
+    "question": "examples of Immutable classes."
+   },
+   {
+    "question": "Is String is Immutable?"
+   },
+   {
+    "question": "How do I initialize a String array?"
+   },
+   {
+    "question": "How do you create a String object?"
+   },
+   {
+    "question": "What is the difference between creating String object using new and String literals?"
+   },
+   {
+    "question": "Immutable objects are thread-safe?"
+   },
+   {
+    "question": "Why does the default Object.toString() include the hashcode?"
+   },
+   {
+    "question": "Why String is often used as key in HashMap?"
+   },
+   {
+    "question": "What is String interpolation in Java?"
+   },
+   {
+    "question": "How to perform String interpolation?"
+   }
+  ]
+  }
