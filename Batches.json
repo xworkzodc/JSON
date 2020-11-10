@@ -4,10 +4,18 @@
       "Upcoming": [ 
         {
           "courseName": "Core Java",
-          "startDate": "09-NOV-2020",
+          "startDate": "16-NOV-2020",
           "time": "09:00 AM",
           "type": "Offline Upcoming",
           "facultyName": "Devendra",
+           "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "16-NOV-2020",
+          "time": "08:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Asha",
            "placed": 0
         },
         {
@@ -34,7 +42,7 @@
           "courseName": "Core Java",
           "startDate": "22-OCT-2020",
           "time": "07:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Started",
           "facultyName": "Kiran",
           "placed": 0
         },
@@ -42,7 +50,7 @@
           "courseName": "Core Java",
           "startDate": "08-OCT-2020",
           "time": "8:00 AM",
-          "type": "Online Upcoming",
+          "type": "Online Started",
           "facultyName": "Ashok",
            "placed": 0
         },
