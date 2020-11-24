@@ -2,11 +2,23 @@
   "Batches": [
      {
       "Upcoming": [ 
-        {
+         {
+          "courseName": "Core Java",
+          "startDate": "15-DEC-2020",
+          "time": "09:00 AM",
+          "type": "Offline Upcoming",
+          "facultyName": "Devendra",
+           "placed": 0
+        }
+      ]
+    },
+    {
+      "Started": [
+         {
           "courseName": "Core Java",
           "startDate": "16-NOV-2020",
           "time": "09:00 AM",
-          "type": "Offline Upcoming",
+          "type": "Offline Started",
           "facultyName": "Devendra",
            "placed": 0
         },
@@ -14,14 +26,10 @@
           "courseName": "Core Java",
           "startDate": "16-NOV-2020",
           "time": "08:00 AM",
-          "type": "Online Upcoming",
+          "type": "Online Started",
           "facultyName": "Asha",
            "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "Core Java",
           "startDate": "02-NOV-2020",
