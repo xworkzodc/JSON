@@ -1,8 +1,16 @@
 {
   "Batches": [
      {
-      "Upcoming": [ 
-         {
+      "Upcoming": [
+        {
+          "courseName": "SQL",
+          "startDate": "3-DEC-2020",
+          "time": "08:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Vinod",
+           "placed": 0
+        },
+        {
           "courseName": "Core Java",
           "startDate": "15-DEC-2020",
           "time": "09:00 AM",
