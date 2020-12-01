@@ -1,35 +1,51 @@
 {
   "Batches": [
      {
-      "Upcoming": [ 
+      "Upcoming": [
+        {
+          "courseName": "SQL",
+          "startDate": "3-DEC-2020",
+          "time": "08:00 AM",
+          "type": "Online Upcoming",
+          "facultyName": "Vinod",
+          "placed": 0
+        },
         {
           "courseName": "Core Java",
-          "startDate": "16-NOV-2020",
+          "startDate": "15-DEC-2020",
           "time": "09:00 AM",
           "type": "Offline Upcoming",
           "facultyName": "Devendra",
-           "placed": 0
+          "placed": 0
         },
         {
           "courseName": "Core Java",
-          "startDate": "16-NOV-2020",
+          "startDate": "15-DEC-2020",
           "time": "08:00 AM",
           "type": "Online Upcoming",
-          "facultyName": "Asha",
-           "placed": 0
-        },
-        {
-          "courseName": "Frameworks",
-          "startDate": "23-NOV-2020",
-          "time": "8:00 AM",
-          "type": "Online Upcoming",
-          "facultyName": "Omkar",
-           "placed": 0
+          "facultyName": "Krupa",
+          "placed": 0
         }
       ]
     },
     {
       "Started": [
+         {
+          "courseName": "Core Java",
+          "startDate": "16-NOV-2020",
+          "time": "09:00 AM",
+          "type": "Offline Started",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "16-NOV-2020",
+          "time": "08:00 AM",
+          "type": "Online Started",
+          "facultyName": "Asha",
+          "placed": 0
+        },
         {
           "courseName": "Core Java",
           "startDate": "02-NOV-2020",
