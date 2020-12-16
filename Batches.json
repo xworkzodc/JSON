@@ -145,8 +145,7 @@
           "type": "Online Ongoing",
           "facultyName": "Ashok",
           "placed": 0
-        }
-        
+        },
         {
           "courseName": "Python",
           "startDate": "08-AUG-2020",
@@ -154,8 +153,7 @@
           "type": "Online Ongoing",
           "facultyName": "Vinod",
           "placed": 0
-        },
-        
+        }
       ]
     },
     {
@@ -191,7 +189,7 @@
           "type": "Online Completed",
           "facultyName": "Krupa",
           "placed": 0
-        }  
+        },  
         {
           "courseName": "Web Technologies",
           "startDate": "25-JAN-2020",
