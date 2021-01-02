@@ -1,0 +1,92 @@
+{
+    "Questions": [ 
+		{
+		"question": "What is JDBC ?"
+		},  
+		{
+		"question": "What is JDBC Driver?"
+		},  
+		{
+		"question": "What are the steps to connect to the database in java?"
+		},  
+		{
+		"question": "What are the JDBC API components?"
+		},  
+		{
+		"question": "What are the JDBC statements?"
+		},  
+		{
+		"question": "What is the return type of Class.forName() method?"
+		},  
+		{
+		"question": "What are the differences between Statement and PreparedStatement interface?"
+		},  
+		{
+		"question": "How can we set null value in JDBC PreparedStatement?"
+		},  
+		{
+		"question": "What are the benefits of PreparedStatement over Statement?"
+		},  
+		{
+		"question": "What are the differences between execute, executeQuery, and executeUpdate?"
+		},  
+		{
+		"question": "What are the different types of ResultSet?"
+		},  
+		{
+		"question": "What are the differences between ResultSet and RowSet?"
+		},  
+		{
+		"question": "How can we execute stored procedures using CallableStatement?"
+		},  
+		{
+		"question": "What is the role of the JDBC DriverManager class?"
+		},  
+		{
+		"question": "What are the functions of the JDBC Connection interface?"
+		},  
+		{
+		"question": "What does the JDBC ResultSet interface?"
+		},  
+		{
+		"question": "What does the JDBC ResultSetMetaData interface?"
+		},  
+		{
+		"question": "What is batch processing and how to perform batch processing in JDBC??"
+		},  
+		{
+		"question": "Which interface is responsible for transaction management in JDBC?"
+		},  
+		{
+		"question": "What are CLOB and BLOB data types in JDBC?"
+		},  
+		{
+		"question": "What are the different types of lockings in JDBC?"
+		},  
+		{
+		"question": "How can we store and retrieve images from the database?"
+		},  
+		{
+		"question": "How can we store the file in the Oracle database?"
+		},  
+		{
+		"question": "How can we retrieve the file in the Oracle database?"
+		},  
+		{
+		"question": "What are the differences between stored procedure and functions?"
+		},  
+		{
+		"question": "How can we maintain the integrity of a database by using JDBC?"
+		},  
+		{
+		"question": "What is the JDBC Rowset?"
+		},  
+		{
+		"question": " What is the major difference between java.util.Date and java.sql.Date data type?"
+		},  
+		{
+		"question": "What does JDBC setMaxRows method do?"
+		}
+	]
+}
+   

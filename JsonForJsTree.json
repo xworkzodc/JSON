@@ -14,6 +14,24 @@
    "type": "root",
    "data":"https://raw.githubusercontent.com/xworkzodc/JSON/master/Interview-Questions/Sql-Basic.json"
   },
+  { "id": "JDBC",
+    "parent":"#",
+   "text": "JDBC ",
+   "type": "root",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-12/Interview-Questions/Java-JDBC.json"
+  },
+  { "id": "Servlets",
+    "parent":"#",
+   "text": "Servlets ",
+   "type": "root",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-12/Interview-Questions/Java-Servlet.json"
+  },
+  { "id": "JSP",
+    "parent":"#",
+   "text": "JSP",
+   "type": "root",
+   "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-12/Interview-Questions/java-JSP.json"
+  },
   { "id": "Java-Child1",
     "parent":"Java",
     "text": "Core",
@@ -155,4 +173,5 @@
    "type": "child",
    "data":"https://raw.githubusercontent.com/xworkzodc/JSON/master/Interview-Questions/Sql-Advance.json"
  }
+  
 ]
