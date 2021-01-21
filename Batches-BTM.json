@@ -29,12 +29,12 @@
       ]
     },
     {
-      "Ongoing": [
+      "Started": [
         {
           "courseName": "Core Java",
           "startDate": "18-JAN-2021",
           "time": "10:30 AM",
-          "type": "WeekDay Online & Offline Upcoming",
+          "type": "WeekDay Online & Offline Started",
           "facultyName": "Krupa",
           "placed": 0
         }
