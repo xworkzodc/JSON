@@ -3,14 +3,6 @@
      {
       "Upcoming": [
         {
-          "courseName": "Core Java",
-          "startDate": "18-JAN-2021",
-          "time": "10:30 AM",
-          "type": "WeekDay Online & Offline Upcoming",
-          "facultyName": "Krupa",
-          "placed": 0
-        },
-        {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "23-JAN-2021",
           "time": "09:00 AM",
@@ -19,11 +11,31 @@
           "placed": 0
         },
         {
-          "courseName": "Angular 8",
-          "startDate": "25-JAN-2021",
-          "time": "10:00 AM",
+          "courseName": "Angular",
+          "startDate": "23-JAN-2021",
+          "time": "02:00 PM",
           "type": "Weekend Online & Offline Upcoming",
           "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "27-JAN-2021",
+          "time": "08:00 AM",
+          "type": "WeekDays Online & Offline Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Ongoing": [
+        {
+          "courseName": "Core Java",
+          "startDate": "18-JAN-2021",
+          "time": "10:30 AM",
+          "type": "WeekDay Online & Offline Upcoming",
+          "facultyName": "Krupa",
           "placed": 0
         }
       ]
