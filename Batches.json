@@ -3,6 +3,30 @@
      {
       "Upcoming": [
         {
+          "courseName": "Core Java",
+          "startDate": "27-JAN-2021",
+          "time": "09:30 AM",
+          "type": "Offline Upcoming",
+          "facultyName": "Devendra",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Started": [
+         {
+          "courseName": "Core Java",
+          "startDate": "18-JAN-2021",
+          "time": "08:00 AM",
+          "type": "Offline Upcoming",
+          "facultyName": "Devendra",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Ongoing": [
+        {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "28-DEC-2020",
           "time": "07:00 AM",
@@ -11,26 +35,6 @@
           "placed": 0
         },
         {
-          "courseName": "Core Java",
-          "startDate": "18-JAN-2021",
-          "time": "08:30 AM",
-          "type": "Online & Offline Upcoming",
-          "facultyName": "Devendra",
-          "placed": 0
-        },
-        {
-          "courseName": "Angular 8",
-          "startDate": "25-JAN-2021",
-          "time": "10:00 AM",
-          "type": "Online & Offline Upcoming",
-          "facultyName": "Omkar",
-          "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
-         {
           "courseName": "Core Java",
           "startDate": "21-DEC-2020",
           "time": "08:00 AM",
@@ -54,7 +58,7 @@
           "facultyName": "Sathish",
           "placed": 0
         },
-         {
+        {
           "courseName": "SQL",
           "startDate": "3-DEC-2020",
           "time": "08:00 AM",
@@ -77,11 +81,7 @@
           "type": "Online Started",
           "facultyName": "Krupa",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Ongoing": [
+        },
         {
           "courseName": "Core Java",
           "startDate": "16-NOV-2020",
@@ -153,7 +153,11 @@
           "type": "Online Ongoing",
           "facultyName": "Krupa",
           "placed": 0
-        },
+        }
+      ]
+    },
+    {
+      "Completed": [
         {
           "courseName": "Core Java",
           "startDate": "31-AUG-2020",
@@ -169,11 +173,7 @@
           "type": "Online Ongoing",
           "facultyName": "Vinod",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [ 
+        },
         {
           "courseName": "Web services",
           "startDate": "16-AUG-2020",
