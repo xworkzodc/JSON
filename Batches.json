@@ -3,16 +3,8 @@
      {
       "Upcoming": [
         {
-          "courseName": "Core Java",
-          "startDate": "27-JAN-2021",
-          "time": "09:30 AM",
-          "type": "WeekDay Offline Upcoming",
-          "facultyName": "Devendra",
-          "placed": 0
-        },
-        {
           "courseName": "SQL",
-          "startDate": "25-JAN-2021",
+          "startDate": "30-JAN-2021",
           "time": "11:00 AM",
           "type": "WeekDay Online Upcoming",
           "facultyName": "Vinod",
@@ -30,11 +22,19 @@
     },
     {
       "Started": [
-         {
+        {
+          "courseName": "Core Java",
+          "startDate": "27-JAN-2021",
+          "time": "09:30 AM",
+          "type": "WeekDay Offline Started",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
+        {
           "courseName": "Core Java",
           "startDate": "18-JAN-2021",
           "time": "08:00 AM",
-          "type": "Offline Started",
+          "type": "WeekDay Offline Started",
           "facultyName": "Devendra",
           "placed": 0
         }
