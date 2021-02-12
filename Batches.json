@@ -3,41 +3,49 @@
      {
       "Upcoming": [
         {
-          "courseName": "Core Java",
-          "startDate": "27-JAN-2021",
-          "time": "09:30 AM",
-          "type": "WeekDay Offline Upcoming",
-          "facultyName": "Devendra",
-          "placed": 0
-        },
-        {
           "courseName": "SQL",
-          "startDate": "25-JAN-2021",
-          "time": "11:00 AM",
-          "type": "WeekDay Online Upcoming",
+          "startDate": "12-FEB-2021",
+          "time": "07:30 AM",
+          "type": "Weekend Online Upcoming",
           "facultyName": "Vinod",
           "placed": 0
         },
         {
-          "courseName": "SQL",
-          "startDate": "06-FEB-2021",
-          "time": "09:00 AM",
-          "type": "Weekend Offline Upcoming",
-          "facultyName": "Vinod",
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "15-FEB-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online & offline Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core JAVA",
+          "startDate": "22-FEB-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay offline Upcoming",
+          "facultyName": "Kiran",
           "placed": 0
         }
       ]
     },
     {
       "Started": [
-         {
+        {
+          "courseName": "SQL",
+          "startDate": "06-FEB-2021",
+          "time": "09:00 AM",
+          "type": "Weekend Offline Started",
+          "facultyName": "Vinod",
+          "placed": 0
+        },
+        {
           "courseName": "Core Java",
-          "startDate": "18-JAN-2021",
-          "time": "08:00 AM",
-          "type": "Offline Started",
+          "startDate": "27-JAN-2021",
+          "time": "09:30 AM",
+          "type": "WeekDay Offline Started",
           "facultyName": "Devendra",
           "placed": 0
-        }
+        },
       ]
     },
     {
@@ -52,17 +60,29 @@
         },
         {
           "courseName": "Core Java",
-          "startDate": "21-DEC-2020",
+          "startDate": "18-JAN-2021",
           "time": "08:00 AM",
-          "type": "Online Ongoing",
-          "facultyName": "Kiran",
+          "type": "Offline Ongoing",
+          "facultyName": "Devendra",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Completed": [
+         {
+          "courseName": "SQL",
+          "startDate": "25-JAN-2021",
+          "time": "11:00 AM",
+          "type": "WeekDay Online Completed",
+          "facultyName": "Vinod",
           "placed": 0
         },
         {
           "courseName": "Web technologies",
           "startDate": "21-DEC-2020",
           "time": "08:00 AM",
-          "type": "Offline Ongoing",
+          "type": "Offline Completed",
           "facultyName": "Lokesh",
           "placed": 0
         },
@@ -70,15 +90,23 @@
           "courseName": "Web technologies",
           "startDate": "21-DEC-2020",
           "time": "08:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Sathish",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "21-DEC-2020",
+          "time": "08:00 AM",
+          "type": "Online Completed",
+          "facultyName": "Kiran",
           "placed": 0
         },
         {
           "courseName": "SQL",
           "startDate": "3-DEC-2020",
           "time": "08:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Vinod",
           "placed": 0
         },
@@ -86,7 +114,7 @@
           "courseName": "Core Java",
           "startDate": "15-DEC-2020",
           "time": "09:00 AM",
-          "type": "Offline Ongoing",
+          "type": "Offline Completed",
           "facultyName": "Devendra",
           "placed": 0
         },
@@ -94,7 +122,7 @@
           "courseName": "Core Java",
           "startDate": "15-DEC-2020",
           "time": "08:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Krupa",
           "placed": 0
         },
@@ -102,7 +130,7 @@
           "courseName": "Core Java",
           "startDate": "16-NOV-2020",
           "time": "09:00 AM",
-          "type": "Offline Ongoing",
+          "type": "Offline Completed",
           "facultyName": "Devendra",
           "placed": 3
         },
@@ -110,7 +138,7 @@
           "courseName": "Core Java",
           "startDate": "16-NOV-2020",
           "time": "08:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Asha",
           "placed": 2
         },
@@ -118,7 +146,7 @@
           "courseName": "Core Java",
           "startDate": "02-NOV-2020",
           "time": "09:00 AM",
-          "type": "Offline Ongoing",
+          "type": "Offline Completed",
           "facultyName": "Devendra",
           "placed": 0
         },
@@ -126,7 +154,7 @@
           "courseName": "Core Java",
           "startDate": "22-OCT-2020",
           "time": "07:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Kiran",
           "placed": 0
         },
@@ -134,7 +162,7 @@
           "courseName": "Core Java",
           "startDate": "08-OCT-2020",
           "time": "8:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Ashok",
            "placed": 2
         },
@@ -142,7 +170,7 @@
           "courseName": "JEE",
           "startDate": "26-SEP-2020",
           "time": "11:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Devendra",
           "placed": 0
         },
@@ -150,7 +178,7 @@
           "courseName": "Core Java",
           "startDate": "05-SEP-2020",
           "time": "08:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Asha",
           "placed": 0
         },
@@ -158,7 +186,7 @@
           "courseName": "Java selenium",
           "startDate": "05-SEP-2020",
           "time": "10:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Sharath",
           "placed": 0
         },
@@ -166,14 +194,10 @@
           "courseName": "Core Java",
           "startDate": "31-AUG-2020",
           "time": "08:00 AM",
-          "type": "Online Ongoing",
+          "type": "Online Completed",
           "facultyName": "Krupa",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },
         {
           "courseName": "Core Java",
           "startDate": "31-AUG-2020",
