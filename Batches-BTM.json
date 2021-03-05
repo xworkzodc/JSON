@@ -2,40 +2,37 @@
   "BatchesBTM": [
      {
       "Upcoming": [
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "23-JAN-2021",
-          "time": "09:00 AM",
+         {
+          "courseName": "Selenium",
+          "startDate": "20-Feb-2021",
+          "time": "10:00 AM",
           "type": "Weekend Online & Offline Upcoming",
-          "facultyName": "Omkar",
+          "facultyName": "Sharath",
           "placed": 0
         },
         {
-          "courseName": "Angular",
-          "startDate": "23-JAN-2021",
-          "time": "02:00 PM",
+          "courseName": "Frameworks(Hibernate,Spring)",
+
+          "startDate": "20-Feb-2021",
+          "time": "10:00 AM",
           "type": "Weekend Online & Offline Upcoming",
           "facultyName": "Omkar",
           "placed": 0
         },
         {
           "courseName": "Core Java",
-          "startDate": "27-JAN-2021",
+          "startDate": "22-Feb-2021",
           "time": "08:00 AM",
           "type": "WeekDays Online & Offline Upcoming",
           "facultyName": "Krupa",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
-          "courseName": "Core Java",
-          "startDate": "18-JAN-2021",
-          "time": "10:30 AM",
-          "type": "WeekDay Online & Offline Started",
-          "facultyName": "Krupa",
+          "courseName": "Angular",
+          "startDate": "27-Feb-2021",
+          "time": "02:00 PM",
+          "type": "Weekend Online & Offline Upcoming",
+          "facultyName": "Omkar",
           "placed": 0
         }
       ]

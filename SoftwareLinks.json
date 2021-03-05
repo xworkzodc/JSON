@@ -59,6 +59,18 @@
 	      "description":"Visual Studio Code IDE Version 1.48.2 for windows 64bit Free and built on open source.",
 	      "directLink":"https://drive.google.com/u/0/uc?export=download&confirm=23Cs&id=10SIRCUyWB3GuERr74K_I5QlwpnvNDHzz",
 	      "extranalLink":"https://code.visualstudio.com/download"
-	     }  
-	     ]
+	     },
+             {
+	      "name": "Project Lombok",	     
+	      "description":"Automatic Resource Management, automatic generation of getters, setters and more!",
+	      "directLink":"https://projectlombok.org/download",
+	      "extranalLink":"https://projectlombok.org/all-versions"
+	     },
+             {
+	      "name": "7-zip",	     
+	      "description":"7-zip for file archiver for compressing and uncompressing files free and open-source",
+	      "directLink":"https://www.7-zip.org/",
+	      "extranalLink":"https://www.7-zip.org/download.html"
+	     }
+     ]
 }
