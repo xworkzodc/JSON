@@ -29,11 +29,12 @@
           "type": "Weekend Offline Started",
           "facultyName": "Vinod",
           "placed": 0
-        },{
+        },
+        {
           "courseName": "SQL",
           "startDate": "12-FEB-2021",
           "time": "07:30 AM",
-          "type": "Weekend Online Upcoming",
+          "type": "Weekend Online Started",
           "facultyName": "Vinod",
           "placed": 0
         },
@@ -41,7 +42,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "15-FEB-2021",
           "time": "08:00 AM",
-          "type": "WeekDay Online & offline Upcoming",
+          "type": "WeekDay Online & offline Started",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -49,7 +50,7 @@
           "courseName": "Core JAVA",
           "startDate": "22-FEB-2021",
           "time": "08:00 AM",
-          "type": "WeekDay offline Upcoming",
+          "type": "WeekDay offline Started",
           "facultyName": "Kiran",
           "placed": 0
         },
