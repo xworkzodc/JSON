@@ -3,6 +3,33 @@
      {
       "Upcoming": [
         {
+          "courseName": "Core Java",
+          "startDate": "13-Mar-2021",
+          "time": "10:00 AM",
+          "type": "Weekend Online & Offline Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
+          "courseName": "Manual Testing",
+          "startDate": "13-Mar-2021",
+          "time": "10:00 AM",
+          "type": "Weekend Online & Offline Upcoming",
+          "facultyName": "Nethra Chakradhar",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Started": [
+        {
+          "courseName": "SQL",
+          "startDate": "06-FEB-2021",
+          "time": "09:00 AM",
+          "type": "Weekend Offline Started",
+          "facultyName": "Vinod",
+          "placed": 0
+        },{
           "courseName": "SQL",
           "startDate": "12-FEB-2021",
           "time": "07:30 AM",
@@ -24,18 +51,6 @@
           "time": "08:00 AM",
           "type": "WeekDay offline Upcoming",
           "facultyName": "Kiran",
-          "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
-        {
-          "courseName": "SQL",
-          "startDate": "06-FEB-2021",
-          "time": "09:00 AM",
-          "type": "Weekend Offline Started",
-          "facultyName": "Vinod",
           "placed": 0
         },
         {
