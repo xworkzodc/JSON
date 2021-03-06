@@ -3,27 +3,19 @@
      {
       "Upcoming": [
         {
-          "courseName": "SQL",
-          "startDate": "12-FEB-2021",
-          "time": "07:30 AM",
-          "type": "Weekend Online Upcoming",
-          "facultyName": "Vinod",
+          "courseName": "Core Java",
+          "startDate": "13-Mar-2021",
+          "time": "10:00 AM",
+          "type": "Weekend Online & Offline Upcoming",
+          "facultyName": "Krupa",
           "placed": 0
         },
         {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "15-FEB-2021",
-          "time": "08:00 AM",
-          "type": "WeekDay Online & offline Upcoming",
-          "facultyName": "Omkar",
-          "placed": 0
-        },
-        {
-          "courseName": "Core JAVA",
-          "startDate": "22-FEB-2021",
-          "time": "08:00 AM",
-          "type": "WeekDay offline Upcoming",
-          "facultyName": "Kiran",
+          "courseName": "Manual Testing",
+          "startDate": "13-Mar-2021",
+          "time": "10:00 AM",
+          "type": "Weekend Online & Offline Upcoming",
+          "facultyName": "Nethra Chakradhar",
           "placed": 0
         }
       ]
@@ -36,6 +28,30 @@
           "time": "09:00 AM",
           "type": "Weekend Offline Started",
           "facultyName": "Vinod",
+          "placed": 0
+        },
+        {
+          "courseName": "SQL",
+          "startDate": "12-FEB-2021",
+          "time": "07:30 AM",
+          "type": "Weekend Online Started",
+          "facultyName": "Vinod",
+          "placed": 0
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "15-FEB-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online & offline Started",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core JAVA",
+          "startDate": "22-FEB-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay offline Started",
+          "facultyName": "Kiran",
           "placed": 0
         },
         {
