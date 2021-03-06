@@ -3,8 +3,40 @@
      {
       "Upcoming": [
          {
+          "courseName": "Core Java",
+          "startDate": "13-Mar-2021",
+          "time": "10:00 AM",
+          "type": "Weekend Online & Offline Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
+          "courseName": "Manual Testing",
+          "startDate": "13-Mar-2021",
+          "time": "10:00 AM",
+          "type": "Weekend Online & Offline Upcoming",
+          "facultyName": "Nethra Chakradhar",
+          "placed": 0
+        },
+        {
+          "courseName": "Python",
+          "startDate": "15-Mar-2021",
+          "time": "08:00 AM",
+          "type": "WeekDays Online & Offline Upcoming",
+          "facultyName": "Vinod",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "22-Mar-2021",
+          "time": "08:00 AM",
+          "type": "WeekDays Online & Offline Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
           "courseName": "Selenium",
-          "startDate": "20-Feb-2021",
+          "startDate": "27-Mar-2021",
           "time": "10:00 AM",
           "type": "Weekend Online & Offline Upcoming",
           "facultyName": "Sharath",
@@ -12,24 +44,15 @@
         },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
-
-          "startDate": "20-Feb-2021",
+          "startDate": "27-Mar-2021",
           "time": "10:00 AM",
           "type": "Weekend Online & Offline Upcoming",
           "facultyName": "Omkar",
           "placed": 0
         },
         {
-          "courseName": "Core Java",
-          "startDate": "22-Feb-2021",
-          "time": "08:00 AM",
-          "type": "WeekDays Online & Offline Upcoming",
-          "facultyName": "Krupa",
-          "placed": 0
-        },
-        {
           "courseName": "Angular",
-          "startDate": "27-Feb-2021",
+          "startDate": "13-Mar-2021",
           "time": "02:00 PM",
           "type": "Weekend Online & Offline Upcoming",
           "facultyName": "Omkar",
