@@ -18,7 +18,7 @@
           "courseName": "Selenium",
           "startDate": "27-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Upcoming",
+          "type": "Weekend Online & Offline Started",
           "facultyName": "Sharath",
           "placed": 0
         },
@@ -26,7 +26,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "27-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Upcoming",
+          "type": "Weekend Online & Offline Started",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -34,27 +34,27 @@
           "courseName": "Core Java",
           "startDate": "22-Mar-2021",
           "time": "08:00 AM",
-          "type": "WeekDays Online & Offline Upcoming",
+          "type": "WeekDays Online & Offline Started",
           "facultyName": "Krupa",
-          "placed": 0
-        },
-        {
-          "courseName": "Python",
-          "startDate": "15-Mar-2021",
-          "time": "08:00 AM",
-          "type": "WeekDays Online & Offline Upcoming",
-          "facultyName": "Vinod",
           "placed": 0
         }
       ]
     },
     {
       "Ongoing": [
+        {
+          "courseName": "Python",
+          "startDate": "15-Mar-2021",
+          "time": "08:00 AM",
+          "type": "WeekDays Online & Offline Ongoing",
+          "facultyName": "Vinod",
+          "placed": 0
+         },
          {
           "courseName": "Angular",
           "startDate": "13-Mar-2021",
           "time": "02:00 PM",
-          "type": "Weekend Online & Offline Upcoming",
+          "type": "Weekend Online & Offline Ongoing",
           "facultyName": "Omkar",
           "placed": 0
          },
@@ -62,7 +62,7 @@
           "courseName": "Core Java",
           "startDate": "13-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Upcoming",
+          "type": "Weekend Online & Offline Ongoing",
           "facultyName": "Krupa",
           "placed": 0
         },
@@ -70,7 +70,7 @@
           "courseName": "Manual Testing",
           "startDate": "13-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Upcoming",
+          "type": "Weekend Online & Offline Ongoing",
           "facultyName": "Nethra Chakradhar",
           "placed": 0
         }
