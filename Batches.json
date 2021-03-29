@@ -18,7 +18,7 @@
           "courseName": "Core Java",
           "startDate": "13-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Upcoming",
+          "type": "Weekend Online & Offline Started",
           "facultyName": "Krupa",
           "placed": 0
         },
@@ -26,15 +26,19 @@
           "courseName": "Manual Testing",
           "startDate": "13-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Upcoming",
+          "type": "Weekend Online & Offline Started",
           "facultyName": "Nethra Chakradhar",
           "placed": 0
-        },
-        {
+        }
+      ]
+    },
+    {
+      "Ongoing": [
+         {
           "courseName": "Core JAVA",
           "startDate": "22-FEB-2021",
           "time": "08:00 AM",
-          "type": "WeekDay offline Started",
+          "type": "WeekDay offline Ongoing",
           "facultyName": "Kiran",
           "placed": 3
         },
@@ -42,36 +46,15 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "15-FEB-2021",
           "time": "08:00 AM",
-          "type": "WeekDay Online & offline Started",
+          "type": "WeekDay Online & offline Ongoing",
           "facultyName": "Omkar",
           "placed": 4
         },
         {
-          "courseName": "SQL",
-          "startDate": "12-FEB-2021",
-          "time": "07:30 AM",
-          "type": "Weekend Online Started",
-          "facultyName": "Vinod",
-          "placed": 0
-        },
-        {
-          "courseName": "SQL",
-          "startDate": "06-FEB-2021",
-          "time": "09:00 AM",
-          "type": "Weekend Offline Started",
-          "facultyName": "Vinod",
-          "placed": 0
-        }
-        
-      ]
-    },
-    {
-      "Ongoing": [
-        {
           "courseName": "Core Java",
           "startDate": "27-JAN-2021",
           "time": "09:30 AM",
-          "type": "WeekDay Offline Started",
+          "type": "WeekDay Offline Ongoing",
           "facultyName": "Devendra",
           "placed": 4
         },
@@ -81,20 +64,28 @@
           "time": "08:00 AM",
           "type": "Offline Ongoing",
           "facultyName": "Devendra",
-          "placed": 4
-        },
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "28-DEC-2020",
-          "time": "07:00 AM",
-          "type": "Online & Offline Ongoing",
-          "facultyName": "Omkar",
           "placed": 5
         }
       ]
     },
     {
       "Completed": [
+        {
+          "courseName": "SQL",
+          "startDate": "12-FEB-2021",
+          "time": "07:30 AM",
+          "type": "Weekend Online Completed",
+          "facultyName": "Vinod",
+          "placed": 0
+        },
+        {
+          "courseName": "SQL",
+          "startDate": "06-FEB-2021",
+          "time": "09:00 AM",
+          "type": "Weekend Offline Completed",
+          "facultyName": "Vinod",
+          "placed": 0
+         },
          {
           "courseName": "SQL",
           "startDate": "25-JAN-2021",
@@ -102,6 +93,14 @@
           "type": "WeekDay Online Completed",
           "facultyName": "Vinod",
           "placed": 0
+        },
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "28-DEC-2020",
+          "time": "07:00 AM",
+          "type": "Online & Offline Completed",
+          "facultyName": "Omkar",
+          "placed": 5
         },
         {
           "courseName": "Web technologies",
