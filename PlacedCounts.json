@@ -1,8 +1,10 @@
 {
-   "placedCounts":[
+   "totalplaced":[
       {
          "totalPlaced":"100"
-      },
+      }
+   ],
+   "placedCounts":[
       {
          "month":"2019-1",
          "placed":"10"
