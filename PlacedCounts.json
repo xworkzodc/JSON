@@ -1,7 +1,7 @@
 {
    "TotalPlaced":[
       {
-         "totalPlaced":"100"
+         "totalPlaced":"200+"
       }
    ],
    "PlacedCounts":[
@@ -31,27 +31,86 @@
       },
       {
          "month":"2019-07",
-         "placed":"100"
+         "placed":"12"
       },
       {
          "month":"2019-08",
-         "placed":"100"
+         "placed":"10"
       },
       {
          "month":"2019-09",
-         "placed":"100"
+         "placed":"13"
       },
       {
          "month":"2019-10",
-         "placed":"100"
+         "placed":"10"
       },
       {
          "month":"2019-11",
-         "placed":"100"
+         "placed":"5"
       },
       {
          "month":"2019-12",
-         "placed":"100"
+         "placed":"12"
+      },
+      {
+         "month":"2020-01",
+         "placed":"12"
+      },
+      {
+         "month":"2020-02",
+         "placed":"13"
+      },
+      {
+         "month":"2020-03",
+         "placed":"5"
+      },
+      {
+         "month":"2020-04",
+         "placed":"3"
+      },
+      {
+         "month":"2020-05",
+         "placed":"2"
+      },
+      {
+         "month":"2020-06",
+         "placed":"3"
+      },
+      {
+         "month":"2020-07",
+         "placed":"3"
+      },
+      {
+         "month":"2020-08",
+         "placed":"4"
+      },
+      {
+         "month":"2020-09",
+         "placed":"5"
+      },
+      {
+         "month":"2020-10",
+         "placed":"8"
+      },
+      {
+         "month":"2020-11",
+         "placed":"6"
+      },{
+         "month":"2020-12",
+         "placed":"4"
+      },
+      {
+         "month":"2021-01",
+         "placed":"15"
+      },
+      {
+         "month":"2021-02",
+         "placed":"18"
+      },
+      {
+         "month":"2021-03",
+         "placed":"14"
       }
    ]
 }
