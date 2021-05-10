@@ -1,12 +1,12 @@
 {
   "BatchesBTM": [
      {
-      "Upcoming": [
-         {
+      "Upcoming": [      
+        {
           "courseName": "Core Java",
-          "startDate": "07-Apr-2021",
-          "time": "08:00 AM",
-          "type": "WeekDays Online & Offline Upcoming",
+          "startDate": "13-May-2021",
+          "time": "10:30 AM",
+          "type": "WeekDay Online Upcoming",
           "facultyName": "Krupa",
           "placed": 0
         }
@@ -14,6 +14,14 @@
     },
     {
       "Started": [
+        {
+          "courseName": "Core Java",
+          "startDate": "07-Apr-2021",
+          "time": "08:00 AM",
+          "type": "WeekDays Online & Offline Started",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
         {
           "courseName": "Selenium",
           "startDate": "27-Mar-2021",
