@@ -41,8 +41,7 @@
           "type": "Weekend Online & Offline Completed",
           "facultyName": "Sharath",
           "placed": 0
-        },
-        
+        }, 
         {
           "courseName": "Core Java",
           "startDate": "22-Mar-2021",
@@ -50,7 +49,7 @@
           "type": "WeekDays Online & Offline Completed",
           "facultyName": "Krupa",
           "placed": 0
-        }
+        },
         {
           "courseName": "Python",
           "startDate": "15-Mar-2021",
@@ -84,6 +83,6 @@
           "placed": 0
         }
       ]
-    },
+    }
   ]
 }
