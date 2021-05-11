@@ -50,6 +50,14 @@
     },
     {
       "Completed": [
+         {
+          "courseName": "SQL",
+          "startDate": "03-Apr-2021",
+          "time": "10:00 AM",
+          "type": "Weekend Offline Completed",
+          "facultyName": "Vinay.s",
+          "placed": 0
+        },
         {
           "courseName": "Core Java",
           "startDate": "22-FEB-2021",
