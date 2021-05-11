@@ -34,22 +34,6 @@
     },
     {
       "Completed": [
-        {
-          "courseName": "Selenium",
-          "startDate": "27-Mar-2021",
-          "time": "10:00 AM",
-          "type": "Weekend Online & Offline Completed",
-          "facultyName": "Sharath",
-          "placed": 0
-        }, 
-        {
-          "courseName": "Python",
-          "startDate": "15-Mar-2021",
-          "time": "08:00 AM",
-          "type": "WeekDays Online & Offline Completed",
-          "facultyName": "Vinod",
-          "placed": 0
-         },
          {
           "courseName": "Core Java",
           "startDate": "13-Mar-2021",
