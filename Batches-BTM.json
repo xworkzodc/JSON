@@ -38,8 +38,16 @@
           "courseName": "Core Java",
           "startDate": "13-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Completed",
+          "type": "WeekDay Online & Offline Completed",
           "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
+          "courseName": "Web Technologies",
+          "startDate": "09-Mar-2021",
+          "time": "10:00 AM",
+          "type": "WeekDay Offline Completed",
+          "facultyName": "Vinay.s",
           "placed": 0
         },
         {
