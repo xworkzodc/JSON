@@ -21,7 +21,11 @@
           "type": "WeekDays Online & Offline Ongoing",
           "facultyName": "Krupa",
           "placed": 0
-        },
+        }
+      ]
+    },
+    {
+      "Completed": [
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "27-Mar-2021",
@@ -30,10 +34,6 @@
           "facultyName": "Omkar",
           "placed": 0
         },
-      ]
-    },
-    {
-      "Completed": [
         {
           "courseName": "Selenium",
           "startDate": "27-Mar-2021",
