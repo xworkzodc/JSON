@@ -52,14 +52,6 @@
       "Completed": [
         {
           "courseName": "Core Java",
-          "startDate": "13-Mar-2021",
-          "time": "10:00 AM",
-          "type": "Weekend Online & Offline Completed",
-          "facultyName": "Krupa",
-          "placed": 0
-        },
-        {
-          "courseName": "Core Java",
           "startDate": "22-FEB-2021",
           "time": "08:00 AM",
           "type": "WeekDay offline Completed",
@@ -96,14 +88,6 @@
           "time": "10:00 AM",
           "type": "Weekend Online & Offline Completed",
           "facultyName": "Nethra Chakradhar",
-          "placed": 0
-        },
-        {
-          "courseName": "SQL",
-          "startDate": "12-FEB-2021",
-          "time": "07:30 AM",
-          "type": "Weekend Online Completed",
-          "facultyName": "Vinod",
           "placed": 0
         },
         {
