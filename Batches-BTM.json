@@ -2,39 +2,19 @@
   "BatchesBTM": [
      {
       "Upcoming": [
-         {
-          "courseName": "Core Java",
-          "startDate": "07-Apr-2021",
-          "time": "08:00 AM",
-          "type": "WeekDays Online & Offline Upcoming",
-          "facultyName": "Krupa",
-          "placed": 0
-        }
-      ]
-    },
-    {
-      "Started": [
         {
-          "courseName": "Selenium",
-          "startDate": "27-Mar-2021",
-          "time": "10:00 AM",
-          "type": "Weekend Online & Offline Started",
-          "facultyName": "Sharath",
-          "placed": 0
-        },
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "27-Mar-2021",
-          "time": "10:00 AM",
-          "type": "Weekend Online & Offline Started",
-          "facultyName": "Omkar",
+          "courseName": "Web Technologies",
+          "startDate": "12-May-2021",
+          "time": "11:00 AM",
+          "type": "WeekDay Online Upcoming",
+          "facultyName": "Vinay.s",
           "placed": 0
         },
         {
           "courseName": "Core Java",
-          "startDate": "22-Mar-2021",
-          "time": "08:00 AM",
-          "type": "WeekDays Online & Offline Started",
+          "startDate": "13-May-2021",
+          "time": "10:30 AM",
+          "type": "WeekDay Online Upcoming",
           "facultyName": "Krupa",
           "placed": 0
         }
@@ -42,39 +22,42 @@
     },
     {
       "Ongoing": [
-        {
-          "courseName": "Python",
-          "startDate": "15-Mar-2021",
+         {
+          "courseName": "Core Java",
+          "startDate": "07-Apr-2021",
           "time": "08:00 AM",
           "type": "WeekDays Online & Offline Ongoing",
-          "facultyName": "Vinod",
+          "facultyName": "Krupa",
           "placed": 0
-         },
-         {
-          "courseName": "Angular",
-          "startDate": "13-Mar-2021",
-          "time": "02:00 PM",
-          "type": "Weekend Online & Offline Ongoing",
-          "facultyName": "Omkar",
-          "placed": 0
-         },
+        }
+      ]
+    },
+    {
+      "Completed": [
          {
           "courseName": "Core Java",
           "startDate": "13-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Ongoing",
+          "type": "WeekDay Online & Offline Completed",
           "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
+          "courseName": "Web Technologies",
+          "startDate": "09-Mar-2021",
+          "time": "10:00 AM",
+          "type": "WeekDay Offline Completed",
+          "facultyName": "Vinay.s",
           "placed": 0
         },
         {
           "courseName": "Manual Testing",
           "startDate": "13-Mar-2021",
           "time": "10:00 AM",
-          "type": "Weekend Online & Offline Ongoing",
+          "type": "Weekend Online & Offline Completed",
           "facultyName": "Nethra Chakradhar",
           "placed": 0
         }
-        
       ]
     }
   ]
