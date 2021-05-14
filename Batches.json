@@ -11,17 +11,17 @@
           "placed": 0
          },
          {
-          "courseName": "Core Java",
-          "startDate": "18-May-2021",
-          "time": "10:30 AM",
-          "type": "WeekDay Online Ongoing",
+          "courseName": "Jdbc",
+          "startDate": "17-May-2021",
+          "time": "10:00 AM",
+          "type": "WeekDay Online Upcoming",
           "facultyName": "Krupa",
           "placed": 0
          },
          {
-          "courseName": "Jdbc",
-          "startDate": "17-May-2021",
-          "time": "10:00 AM",
+          "courseName": "Core Java",
+          "startDate": "18-May-2021",
+          "time": "10:30 AM",
           "type": "WeekDay Online Upcoming",
           "facultyName": "Krupa",
           "placed": 0
