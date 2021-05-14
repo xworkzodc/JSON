@@ -4,41 +4,57 @@
       "Upcoming": [
          {
           "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "12-May-2021",
-          "time": "10:00 AM",
+          "startDate": "17-May-2021",
+          "time": "08:00 AM",
           "type": "WeekDay Online Upcoming",
           "facultyName": "Sharath",
           "placed": 0
          },
          {
-          "courseName": "Web Technologies",
-          "startDate": "12-May-2021",
-          "time": "11:00 AM",
-          "type": "WeekDay Online Upcoming",
-          "facultyName": "Vinay.s",
+          "courseName": "Core Java",
+          "startDate": "18-May-2021",
+          "time": "10:30 AM",
+          "type": "WeekDay Online Ongoing",
+          "facultyName": "Krupa",
           "placed": 0
          },
          {
-          "courseName": "Core Java",
-          "startDate": "13-May-2021",
-          "time": "10:30 AM",
-          "type": "WeekDay Online Upcoming",
-          "facultyName": "Krupa",
-          "placed": 0
-        },
-        {
           "courseName": "Jdbc",
           "startDate": "17-May-2021",
           "time": "10:00 AM",
           "type": "WeekDay Online Upcoming",
           "facultyName": "Krupa",
           "placed": 0
-        }
+         },
+         {
+          "courseName": "React JS",
+          "startDate": "24-May-2021",
+          "time": "10:00 AM",
+          "type": "WeekDay Online Upcoming",
+          "facultyName": "Sathish",
+          "placed": 0
+         }
       ]
     },
     {
       "Ongoing": [
-        {
+         {
+          "courseName": "Core Java",
+          "startDate": "13-May-2021",
+          "time": "10:30 AM",
+          "type": "WeekDay Online Ongoing",
+          "facultyName": "Krupa",
+          "placed": 0
+         },
+         {
+          "courseName": "Web Technologies",
+          "startDate": "12-May-2021",
+          "time": "11:00 AM",
+          "type": "WeekDay Online Ongoing",
+          "facultyName": "Vinay.s",
+          "placed": 0
+         },
+         {
           "courseName": "Core Java",
           "startDate": "07-Apr-2021",
           "time": "10:00 AM",
