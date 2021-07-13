@@ -11,5 +11,6 @@
       "placed":"https://raw.githubusercontent.com/xworkzodc/Gallery/master/Placed.json",
       "mailIds":"https://raw.githubusercontent.com/xworkzodc/JSON/master/EmailIds.json",
       "softwares":"https://raw.githubusercontent.com/xworkzodc/JSON/master/SoftwareLinks.json",
-      "registrations":"https://raw.githubusercontent.com/xworkzodc/JSON/master/RegistrationsLinks.json"
+      "registrations":"https://raw.githubusercontent.com/xworkzodc/JSON/master/RegistrationsLinks.json",
+      "placedCounts":"https://raw.githubusercontent.com/xworkzodc/JSON/master/PlacedCounts.json"
 }
