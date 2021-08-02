@@ -2,113 +2,129 @@
   "Batches": [
      {
       "Upcoming": [
-          {
-          "courseName": "Core Java",
-          "startDate": "21-July-2021",
+        {
+          "courseName": "Web Technologies",
+          "startDate": "05-AUG-2021",
           "time": "05:00 PM",
           "type": "WeekDay Online Upcoming",
-          "facultyName": "Asha",
+          "facultyName": "Sathish",
           "placed": 0
-          }       
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "16-AUG-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online & Offline Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0
+        }       
       ]
     },
     {
       "Ongoing": [
          {
           "courseName": "Core Java",
-          "startDate": "08-July-2021",
+          "startDate": "21-JULY-2021",
+          "time": "05:00 PM",
+          "type": "WeekDay Online Ongoing",
+          "facultyName": "Asha",
+          "placed": 0
+          },
+        {
+          "courseName": "Core Java",
+          "startDate": "08-JULY-2021",
           "time": "06:30 PM",
           "type": "WeekDay Online Ongoing",
           "facultyName": "Asha",
           "placed": 0
          },
          {
-          "courseName": "SQL",
-          "startDate": "05-July-2021",
-          "time": "4:30 PM",
+          "courseName": "Core Java",
+          "startDate": "31-MAY-2021",
+          "time": "08:30 AM",
           "type": "WeekDay Online Ongoing",
+          "facultyName": "Devendra",
+          "placed": 0
+         }
+      ]
+    },
+    {
+      "Completed": [
+        {
+          "courseName": "SQL",
+          "startDate": "05-JULY-2021",
+          "time": "4:30 PM",
+          "type": "WeekDay Online Completed",
           "facultyName": "Vinay.s",
           "placed": 0
         },
         {
           "courseName": "Web Technologies",
-          "startDate": "07-June-2021",
+          "startDate": "07-JUNE-2021",
           "time": "03:00 PM",
-          "type": "Weekend Online Ongoing",
+          "type": "Weekend Online Completed",
           "facultyName": "Vinay.s",
           "placed": 0
-         },
-         {
-          "courseName": "Core Java",
-          "startDate": "31-May-2021",
-          "time": "08:30 AM",
-          "type": "WeekDay Online Ongoing",
-          "facultyName": "Devendra",
-          "placed": 0
-         },
-         {
+        },
+        {
           "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "17-May-2021",
+          "startDate": "17-MAY-2021",
           "time": "08:00 AM",
-          "type": "WeekDay Online Ongoing",
+          "type": "WeekDay Online Completed",
           "facultyName": "Sharath",
           "placed": 0
-         },
-         {
+        },
+        {
           "courseName": "Core Java",
-          "startDate": "18-May-2021",
-          "time": "10:30 AM",
-          "type": "WeekDay Online Ongoing",
-          "facultyName": "Krupa",
-          "placed": 0
-         },     
-         {
-          "courseName": "Core Java",
-          "startDate": "07-Apr-2021",
-          "time": "10:00 AM",
-          "type": "WeekDay Online & Offline Ongoing",
-          "facultyName": "Asha",
-          "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [           
-         {
-          "courseName": "Core Java",
-          "startDate": "13-May-2021",
+          "startDate": "18-MAY-2021",
           "time": "10:30 AM",
           "type": "WeekDay Online Completed",
           "facultyName": "Krupa",
           "placed": 0
-         },
-         {
+        }, 
+        {
+          "courseName": "Core Java",
+          "startDate": "13-MAY-2021",
+          "time": "10:30 AM",
+          "type": "WeekDay Online Completed",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
           "courseName": "Web Technologies",
-          "startDate": "12-May-2021",
+          "startDate": "12-MAY-2021",
           "time": "11:00 AM",
           "type": "WeekDay Online Completed",
           "facultyName": "Vinay.s",
           "placed": 0
-         },
-         {
+        },
+        {
           "courseName": "React JS",
-          "startDate": "24-May-2021",
+          "startDate": "24-MAY-2021",
           "time": "10:00 AM",
           "type": "WeekDay Online Completed",
           "facultyName": "Sathish",
           "placed": 0
-         },
-         {
+        },
+        {
           "courseName": "Jdbc",
           "startDate": "17-May-2021",
           "time": "10:00 AM",
           "type": "WeekDay Online Completed",
           "facultyName": "Krupa",
           "placed": 0
-         },
-         {
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "07-APR-2021",
+          "time": "10:00 AM",
+          "type": "WeekDay Online & Offline Completed",
+          "facultyName": "Asha",
+          "placed": 0
+        },
+        {
           "courseName": "SQL",
-          "startDate": "03-Apr-2021",
+          "startDate": "03-APR-2021",
           "time": "10:00 AM",
           "type": "Weekend Offline Completed",
           "facultyName": "Vinay.s",
