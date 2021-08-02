@@ -6,16 +6,8 @@
           "courseName": "Web Technologies",
           "startDate": "05-AUG-2021",
           "time": "05:00 PM",
-          "type": "WeekDay Online & Offline Upcoming",
+          "type": "WeekDay Online Upcoming",
           "facultyName": "Sathish",
-          "placed": 0
-        },
-        {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "12-AUG-2021",
-          "time": "08:00 AM",
-          "type": "WeekDay Online & Offline Upcoming",
-          "facultyName": "Omkar",
           "placed": 0
         },
         {
@@ -62,7 +54,7 @@
           "courseName": "SQL",
           "startDate": "05-JULY-2021",
           "time": "4:30 PM",
-          "type": "WeekDay Online Ongoing",
+          "type": "WeekDay Online Completed",
           "facultyName": "Vinay.s",
           "placed": 0
         },
@@ -70,7 +62,7 @@
           "courseName": "Web Technologies",
           "startDate": "07-JUNE-2021",
           "time": "03:00 PM",
-          "type": "Weekend Online Ongoing",
+          "type": "Weekend Online Completed",
           "facultyName": "Vinay.s",
           "placed": 0
         },
