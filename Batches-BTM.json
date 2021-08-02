@@ -2,7 +2,22 @@
   "BatchesBTM": [
      {
       "Upcoming": [
-          
+        {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "12-AUG-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online & Offline Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "16-AUG-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online & Offline Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0
+        }   
       ]
     },
     {
