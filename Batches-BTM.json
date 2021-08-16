@@ -12,12 +12,12 @@
         },
         {
           "courseName": "Core Java",
-          "startDate": "16-AUG-2021",
-          "time": "08:00 AM",
-          "type": "WeekDay Online & Offline Upcoming",
-          "facultyName": "Krupa",
+          "startDate": "23-AUG-2021",
+          "time": "10:30 AM",
+          "type": "WeekDay Offline Upcoming",
+          "facultyName": "Omkar",
           "placed": 0
-        }   
+        }
       ]
     },
     {
@@ -29,7 +29,15 @@
           "type": "WeekDay Online Ongoing",
           "facultyName": "Asha",
           "placed": 0
-          }
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "16-AUG-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online & Offline Ongoing",
+          "facultyName": "Krupa",
+          "placed": 0
+        }
       ]
     },
     {
