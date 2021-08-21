@@ -3,33 +3,25 @@
      {
       "Upcoming": [
         {
-          "courseName": "Frameworks(Hibernate,Spring)",
-          "startDate": "12-AUG-2021",
-          "time": "08:00 AM",
+          "courseName": "Core Java",
+          "startDate": "23-AUG-2021",
+          "time": "10:30 AM",
           "type": "WeekDay Online & Offline Upcoming",
           "facultyName": "Omkar",
           "placed": 0
-        },
-        {
-          "courseName": "Core Java",
-          "startDate": "16-AUG-2021",
-          "time": "08:00 AM",
-          "type": "WeekDay Online & Offline Upcoming",
-          "facultyName": "Krupa",
-          "placed": 0
-        }   
+        }
       ]
     },
     {
       "Ongoing": [
         {
           "courseName": "Core Java",
-          "startDate": "21-July-2021",
-          "time": "05:00 PM",
-          "type": "WeekDay Online Ongoing",
-          "facultyName": "Asha",
+          "startDate": "16-AUG-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online & Offline Ongoing",
+          "facultyName": "Krupa",
           "placed": 0
-          }
+        }
       ]
     },
     {
