@@ -4,10 +4,26 @@
       "Upcoming": [
         {
           "courseName": "Core Java",
-          "startDate": "23-AUG-2021",
-          "time": "10:30 AM",
+          "startDate": "30-AUG-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online Upcoming",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "06-SEP-2021",
+          "time": "09:00 AM",
           "type": "WeekDay Online & Offline Upcoming",
           "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "06-SEP-2021",
+          "time": "09:00 AM",
+          "type": "WeekDay Online Upcoming",
+          "facultyName": "Asha",
           "placed": 0
         }
       ]
@@ -16,10 +32,10 @@
       "Ongoing": [
         {
           "courseName": "Core Java",
-          "startDate": "16-AUG-2021",
-          "time": "08:00 AM",
+          "startDate": "23-AUG-2021",
+          "time": "10:30 AM",
           "type": "WeekDay Online & Offline Ongoing",
-          "facultyName": "Krupa",
+          "facultyName": "Omkar",
           "placed": 0
         }
       ]
