@@ -4,24 +4,8 @@
       "Upcoming": [
         {
           "courseName": "Core Java",
-          "startDate": "30-AUG-2021",
-          "time": "08:00 AM",
-          "type": "WeekDay Online Upcoming",
-          "facultyName": "Krupa",
-          "placed": 0
-        },
-        {
-          "courseName": "Core Java",
-          "startDate": "06-SEPT-2021",
-          "time": "09:00 AM",
-          "type": "WeekDay Online & Offline Upcoming",
-          "facultyName": "Omkar",
-          "placed": 0
-        },
-        {
-          "courseName": "Core Java",
-          "startDate": "06-SEPT-2021",
-          "time": "09:00 AM",
+          "startDate": "04-OCT-2021",
+          "time": "07:30 AM",
           "type": "WeekDay Online Upcoming",
           "facultyName": "Asha",
           "placed": 0
@@ -36,6 +20,30 @@
           "time": "10:30 AM",
           "type": "WeekDay Online & Offline Ongoing",
           "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "30-AUG-2021",
+          "time": "08:00 AM",
+          "type": "WeekDay Online Ongoing",
+          "facultyName": "Krupa",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "06-SEPT-2021",
+          "time": "09:00 AM",
+          "type": "WeekDay Online & Offline Ongoing",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "06-SEPT-2021",
+          "time": "09:00 AM",
+          "type": "WeekDay Online Ongoing",
+          "facultyName": "Asha",
           "placed": 0
         }
       ]
