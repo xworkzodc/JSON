@@ -6,7 +6,7 @@
           "courseName": "Core Java",
           "startDate": "22-NOV-2021",
           "time": "04:00 PM",
-          "type": "WeekDay Offline Ongoing",
+          "type": "WeekDay Offline Upcoming",
           "facultyName": "Nikunj",
           "placed": 0
         }
@@ -90,7 +90,7 @@
           "courseName": "Web Technologies",
           "startDate": "16-NOV-2021",
           "time": "11:30 AM",
-          "type": "WeekDay Online Completed",
+          "type": "WeekDay Online Ongoing",
           "facultyName": "Sathish",
           "placed": 0
         }
