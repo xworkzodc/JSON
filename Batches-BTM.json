@@ -2,14 +2,7 @@
   "BatchesBTM": [
      {
       "Upcoming": [
-        {
-          "courseName": "Core Java",
-          "startDate": "04-OCT-2021",
-          "time": "07:30 AM",
-          "type": "WeekDay Online Upcoming",
-          "facultyName": "Asha",
-          "placed": 0
-        }
+        
       ]
     },
     {
@@ -44,6 +37,30 @@
           "time": "09:00 AM",
           "type": "WeekDay Online Ongoing",
           "facultyName": "Asha",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "04-OCT-2021",
+          "time": "07:30 AM",
+          "type": "WeekDay Online Upcoming",
+          "facultyName": "Asha",
+          "placed": 0
+        },
+        {
+          "courseName": "SQL",
+          "startDate": "05-NOV-2021",
+          "time": "6:00 PM",
+          "type": "WeekDay Online Completed",
+          "facultyName": "Vinay.s",
+          "placed": 0
+        },
+        {
+          "courseName": "Web Technologies",
+          "startDate": "16-NOV-2021",
+          "time": "11:30 AM",
+          "type": "WeekDay Offline Completed",
+          "facultyName": "Sathish",
           "placed": 0
         }
       ]
