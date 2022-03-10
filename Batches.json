@@ -2,11 +2,31 @@
   "Batches": [
      {
       "Upcoming": [
+         {
+          "courseName": "ANGULAR Js",
+          "startDate": "26-MAR-2022",
+          "time": "10:00 AM",
+          "type": "Weekend Online Upcoming",
+          "facultyName": "Sathish",
+          "placed": 0
+        },
+         {
+          "courseName": "ANGULAR Js",
+          "startDate": "19-MAR-2022",
+          "time": "10:00 AM",
+          "type": "Weekend Online Upcoming",
+          "facultyName": "Sathish",
+          "placed": 0
+        },
+      ]
+    },
+    {
+      "Ongoing": [
         {
           "courseName": "Core Java",
           "startDate": "21-FEB-2021",
           "time": "08:00 AM",
-          "type": "WeekDay Offline Upcoming",
+          "type": "WeekDay Offline Ongoing",
           "facultyName": "Nikunj",
           "placed": 0
         },
@@ -14,14 +34,10 @@
           "courseName": "Core Java",
           "startDate": "14-FEB-2021",
           "time": "10:00 AM",
-          "type": "WeekDay Offline Upcoming",
+          "type": "WeekDay Offline Ongoing",
           "facultyName": "Nikunj",
           "placed": 0
         }
-      ]
-    },
-    {
-      "Ongoing": [
         {
           "courseName": "JDBC",
           "startDate": "09-FEB-2021",
