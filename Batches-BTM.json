@@ -2,11 +2,27 @@
   "BatchesBTM": [
      {
       "Upcoming": [
+        {
+          "courseName": "Core Java",
+          "startDate": "21-MAR-2022",
+          "time": "12:00 PM",
+          "type": "WeekDay Offline Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
         
       ]
     },
     {
       "Ongoing": [
+        {
+          "courseName": "Core Java",
+          "startDate": "07-MAR-2022",
+          "time": "12:00 PM",
+          "type": "WeekDay Offline Ongoing",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
         {
           "courseName": "Core Java",
           "startDate": "28-FEB-2021",
