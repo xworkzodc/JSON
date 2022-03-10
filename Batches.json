@@ -10,7 +10,7 @@
           "facultyName": "Sathish",
           "placed": 0
         },
-         {
+        {
           "courseName": "ANGULAR Js",
           "startDate": "19-MAR-2022",
           "time": "10:00 AM",
@@ -37,7 +37,7 @@
           "type": "WeekDay Offline Ongoing",
           "facultyName": "Nikunj",
           "placed": 0
-        }
+        },
         {
           "courseName": "JDBC",
           "startDate": "09-FEB-2021",
