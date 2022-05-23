@@ -2,19 +2,32 @@
   "BatchesBTM": [
      {
       "Upcoming": [
-        {
-          "courseName": "Core Java",
-          "startDate": "28-FEB-2021",
-          "time": "08:00 AM",
-          "type": "WeekDay Offline Upcoming",
-          "facultyName": "Omkar",
-          "placed": 0
-        }
+       
       ]
     },
     {
       "Ongoing": [
-        {
+         {
+          "courseName": "Core Java",
+          "startDate": "20-04-2021",
+          "time": "10:00 AM",
+          "type": "WeekDay Offline Upcoming",
+          "facultyName": "Asha",
+          "placed": 0
+         },
+         {
+          "courseName": "Core Java",
+          "startDate": "28-FEB-2021",
+          "time": "12:00 PM",
+          "type": "WeekDay Offline Upcoming",
+          "facultyName": "Omkar",
+          "placed": 0
+         }
+      ]
+    },
+    {
+      "Completed": [
+         {
           "courseName": "Core Java",
           "startDate": "11-JAN-2021",
           "time": "08:00 AM",
@@ -37,11 +50,7 @@
           "type": "WeekDay Online Ongoing",
           "facultyName": "Kiran",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },
         {
           "courseName": "SQL",
           "startDate": "05-NOV-2021",
