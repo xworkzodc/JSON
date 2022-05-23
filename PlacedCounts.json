@@ -1,7 +1,7 @@
 {
    "TotalPlaced":[
       {
-         "totalPlaced":"200+"
+         "totalPlaced":"400+"
       }
    ],
    "PlacedCounts":[
@@ -111,6 +111,62 @@
       {
          "month":"2021-03",
          "placed":"14"
+      },
+      {
+         "month":"2021-04",
+         "placed":"11"
+      },
+      {
+         "month":"2021-05",
+         "placed":"8"
+      },
+      {
+         "month":"2021-06",
+         "placed":"10"
+      },
+      {
+         "month":"2021-06",
+         "placed":"7"
+      },
+      {
+         "month":"2021-07",
+         "placed":"9"
+      },
+      {
+         "month":"2021-08",
+         "placed":"6"
+      },
+      {
+         "month":"2021-09",
+         "placed":"8"
+      },
+      {
+         "month":"2021-10",
+         "placed":"11"
+      },
+      {
+         "month":"2021-11",
+         "placed":"5"
+      },
+      {
+         "month":"2021-12",
+         "placed":"9"
+      },
+      {
+         "month":"2022-01",
+         "placed":"4"
+      },
+      {
+         "month":"2022-02",
+         "placed":"7"
+      },
+      {
+         "month":"2022-03",
+         "placed":"5"
+      },
+      {
+         "month":"2022-04",
+         "placed":"8"
       }
    ]
 }
