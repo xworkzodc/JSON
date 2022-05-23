@@ -11,7 +11,7 @@
           "courseName": "Core Java",
           "startDate": "20-04-2021",
           "time": "10:00 AM",
-          "type": "WeekDay Offline Upcoming",
+          "type": "WeekDay Offline Ongoing",
           "facultyName": "Asha",
           "placed": 0
          },
@@ -19,7 +19,7 @@
           "courseName": "Core Java",
           "startDate": "28-FEB-2021",
           "time": "12:00 PM",
-          "type": "WeekDay Offline Upcoming",
+          "type": "WeekDay Offline Ongoing",
           "facultyName": "Omkar",
           "placed": 0
          }
@@ -31,7 +31,7 @@
           "courseName": "Core Java",
           "startDate": "11-JAN-2021",
           "time": "08:00 AM",
-          "type": "WeekDay Online Ongoing",
+          "type": "WeekDay Online Completed",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -39,7 +39,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "11-JAN-2021",
           "time": "12:00 AM",
-          "type": "WeekDay Offline Ongoing",
+          "type": "WeekDay Offline Completed",
           "facultyName": "Omkar",
           "placed": 0
         },
@@ -47,7 +47,7 @@
           "courseName": "Core Java",
           "startDate": "11-JAN-2021",
           "time": "08:00 AM",
-          "type": "WeekDay Online Ongoing",
+          "type": "WeekDay Online Completed",
           "facultyName": "Kiran",
           "placed": 0
         },
