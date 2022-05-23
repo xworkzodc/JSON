@@ -2,11 +2,28 @@
   "Batches": [
      {
       "Upcoming": [
+         
+      ]
+    },
+    {
+      "Ongoing": [
          {
+          "courseName": "Core Java",
+          "startDate": "16-MAY-2022",
+          "time": "08:30 AM",
+          "type": "WeekDay Offline Ongoing",
+          "facultyName": "Devendra",
+          "placed": 0
+        }
+      ]
+    },
+    {
+      "Completed": [
+        {
           "courseName": "ANGULAR Js",
           "startDate": "26-MAR-2022",
           "time": "10:00 AM",
-          "type": "Weekend Online Upcoming",
+          "type": "Weekend Online Completed",
           "facultyName": "Sathish",
           "placed": 0
         },
@@ -14,19 +31,15 @@
           "courseName": "ANGULAR Js",
           "startDate": "19-MAR-2022",
           "time": "10:00 AM",
-          "type": "Weekend Online Upcoming",
+          "type": "Weekend Online Completed",
           "facultyName": "Sathish",
           "placed": 0
-        }
-      ]
-    },
-    {
-      "Ongoing": [
+        },
         {
           "courseName": "Core Java",
           "startDate": "21-FEB-2022",
           "time": "08:00 AM",
-          "type": "WeekDay Offline Ongoing",
+          "type": "WeekDay Offline Completed",
           "facultyName": "Nikunj",
           "placed": 0
         },
@@ -34,7 +47,7 @@
           "courseName": "Core Java",
           "startDate": "14-FEB-2022",
           "time": "10:00 AM",
-          "type": "WeekDay Offline Ongoing",
+          "type": "WeekDay Offline Completed",
           "facultyName": "Nikunj",
           "placed": 0
         },
@@ -42,7 +55,7 @@
           "courseName": "JDBC",
           "startDate": "09-FEB-2022",
           "time": "08:00 AM",
-          "type": "WeekDay Offline Ongoing",
+          "type": "WeekDay Offline Completed",
           "facultyName": "Pavan",
           "placed": 0
         },
@@ -50,7 +63,7 @@
           "courseName": "Core Java",
           "startDate": "09-FEB-2022",
           "time": "08:00 AM",
-          "type": "WeekDay Online Ongoing",
+          "type": "WeekDay Online Completed",
           "facultyName": "Kiran",
           "placed": 0
         },
@@ -58,7 +71,7 @@
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "24-JAN-2022",
           "time": "05:00 PM",
-          "type": "WeekDay Online Ongoing",
+          "type": "WeekDay Online Completed",
           "facultyName": "Sharath",
           "placed": 0
         },
@@ -66,7 +79,7 @@
           "courseName": "Core Java",
           "startDate": "06-JAN-2022",
           "time": "08:00 AM",
-          "type": "WeekDay Offline Ongoing",
+          "type": "WeekDay Offline Completed",
           "facultyName": "Devendra",
           "placed": 0
         },
@@ -74,14 +87,10 @@
           "courseName": "Core Java",
           "startDate": "22-NOV-2021",
           "time": "04:00 PM",
-          "type": "WeekDay Offline Ongoing",
+          "type": "WeekDay Offline Completed",
           "facultyName": "Nikunj",
           "placed": 4
-        }
-      ]
-    },
-    {
-      "Completed": [
+        },
         {
           "courseName": "Web Technologies",
           "startDate": "16-NOV-2021",
