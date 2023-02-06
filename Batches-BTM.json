@@ -29,11 +29,13 @@
           "type": "WeekDay Offline Ongoing",
           "facultyName": "Omkar",
           "placed": 0
-        }  
+         }
+
       ]
     },
     {
       "Completed": [
+
         {
           "courseName": "Core Java",
           "startDate": "07-MAR-2022",
