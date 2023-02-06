@@ -16,25 +16,43 @@
       "Ongoing": [
          {
           "courseName": "Core Java",
-          "startDate": "20-04-2022",
+          "startDate": "20-Apr-2022",
           "time": "10:00 AM",
           "type": "WeekDay Offline Ongoing",
           "facultyName": "Asha",
           "placed": 0
-         },
+        },
          {
           "courseName": "Core Java",
-          "startDate": "28-FEB-2022",
+          "startDate": "21-MAR-2022",
           "time": "12:00 PM",
           "type": "WeekDay Offline Ongoing",
           "facultyName": "Omkar",
           "placed": 0
          }
+
       ]
     },
     {
       "Completed": [
-         {
+
+        {
+          "courseName": "Core Java",
+          "startDate": "07-MAR-2022",
+          "time": "12:00 PM",
+          "type": "WeekDay Offline Completed",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "28-FEB-2022",
+          "time": "08:00 AM",
+          "type": "WeekDay Offline Completed",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
           "courseName": "Core Java",
           "startDate": "11-JAN-2022",
           "time": "08:00 AM",
