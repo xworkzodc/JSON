@@ -2,19 +2,19 @@
     "Module" : [
         {
             "name" : "Core Java",
-            "url" : "http://localhost:8080/getCoreJavaQuestions"
+            "url" : "https://ombn.in/xworkz_api/getCoreJavaQuestions"
         },
         {
             "name" : "My Sql",
-            "url" : "http://localhost:8080/getMySqlQuestions"
+            "url" : "https://ombn.in/xworkz_api/getMySqlQuestions"
         },
         {
             "name" : "Advanced Java",
-            "url" : "http://localhost:8080/getAdvancedJavaQuestions"
+            "url" : "https://ombn.in/xworkz_api/getAdvancedJavaQuestions"
         },
         {
             "name" : "Spring",
-            "url" : "http://localhost:8080/getSpringQuestions"
+            "url" : "https://ombn.in/xworkz_api/getSpringQuestions"
         }
     ]
 }
