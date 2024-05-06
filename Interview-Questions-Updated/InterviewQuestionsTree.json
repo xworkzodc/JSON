@@ -1,0 +1,20 @@
+{
+    "Module" : [
+        {
+            "name" : "Core Java",
+            "url" : "https://ombn.in/xworkz_api/getCoreJavaQuestions"
+        },
+        {
+            "name" : "My Sql",
+            "url" : "https://ombn.in/xworkz_api/getMySqlQuestions"
+        },
+        {
+            "name" : "Advanced Java",
+            "url" : "https://ombn.in/xworkz_api/getAdvancedJavaQuestions"
+        },
+        {
+            "name" : "Spring",
+            "url" : "https://ombn.in/xworkz_api/getSpringQuestions"
+        }
+    ]
+}
