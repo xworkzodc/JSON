@@ -31,31 +31,27 @@
 			"imgSrc": "https://raw.githubusercontent.com/X-workzDev01/FacultiesImages/master/Amulya.jpg"
 		},
 		{
-			"name": "Keerthana",
+			"name": "Amith",
 			"designation": "HR Executive",
 			"description": "",
-			"imgSrc": "https://raw.githubusercontent.com/X-workzDev01/FacultiesImages/master/Keerthana.jpg"
+			"imgSrc": "https://raw.githubusercontent.com/X-workzDev01/FacultiesImages/master/Amith.jpg"
 		},
 		{
-			"name": "Asha",
-			"designation": "Trainer",
-			"description": "6+ years of experience in IT industry.Extensive knowledge on java and jee technologies.4 years of experience in Java training.Currently working as a full-stack developer.Extensive knowledge on non-relational database.Expert in developing enterprises application",
-			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Asha.png"
+			"name": "Mohammed Musaib R S",
+			"designation": "HR Executive",
+			"description": "",
+			"imgSrc": "https://raw.githubusercontent.com/X-workzDev01/FacultiesImages/master/Musaib.jpg"
 		},
+
 		{
 			"name": "Lokesh",
 			"designation": "Trainer",
 			"description": "Has an experience of 3+ years in IT development.Trained students on java, web technologies, and framework.Experience in backend technologies",
 			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Lokesh.png"
 		},
+
 		{
-			"name": "Sharath K",
-			"designation": "Trainer",
-			"description": "Java Fullstack developer.3years of software development experience.Trained more than 1000s students on different technologies like Java , Hibernate, Spring , Angular and also Automation testing framework like Selenium , Cucumber, testNG.Extensive knowledge in developing Enterprise applications and helped students to practically implement applications on their own",
-			"imgSrc": "https://raw.githubusercontent.com/xworkzodc/FacultiesImages/master/Sharath.png"
-		},
-		{
-			"name": "Vinodha",
+			"name": "Vinoda",
 			"designation": "Software Developer",
 			"description": "Java Fullstack developer.3years of software development experience.Trained more than 1000s students on different technologies like Java , Hibernate, Spring , Angular and also Automation testing framework like Selenium , Cucumber, testNG.Extensive knowledge in developing Enterprise applications and helped students to practically implement applications on their own",
 			"imgSrc": "https://raw.githubusercontent.com/X-workzDev01/FacultiesImages/master/Vinodha_.jpg"
@@ -77,6 +73,12 @@
 			"designation": "Software Developer",
 			"description": "",
 			"imgSrc": "https://raw.githubusercontent.com/X-workzDev01/FacultiesImages/master/Hareesh.jpg"
+		},
+		{
+			"name": "Sayedmurtuza Haji",
+			"designation": "Software Developer",
+			"description": "",
+			"imgSrc": "https://raw.githubusercontent.com/X-workzDev01/FacultiesImages/master/Sayedmurtuza Haji.jpg"
 		},
 		{
 			"name": "Sunil",
