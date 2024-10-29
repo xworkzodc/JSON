@@ -101,6 +101,14 @@
         },
         {
           "courseName": "Core Java",
+          "startDate": "27-NOV-2023",
+          "time": "08:00 AM",
+          "type": "WeekDay Offline Ongoing",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
           "startDate": "21-AUG-2023",
           "time": "01:00 PM",
           "type": "WeekDay Offline Ongoing",
@@ -123,14 +131,7 @@
           "facultyName": "Abishek",
           "placed": 0
         },
-        {
-          "courseName": "Core Java",
-          "startDate": "27-NOV-2023",
-          "time": "08:00 AM",
-          "type": "WeekDay Offline Ongoing",
-          "facultyName": "Omkar",
-          "placed": 0
-        },
+        
         {
           "courseName": "Core Java",
           "startDate": "16-MAY-2022",
