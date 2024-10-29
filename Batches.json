@@ -2,17 +2,54 @@
   "Batches": [
      {
       "Upcoming": [
-         
+        {
+          "courseName": "Core Java",
+          "startDate": "07-NOV-2024",
+          "time": "2:00 PM",
+          "type": "WeekDay Offline Upcoming"
+         }
       ]
     },
     {
       "Ongoing": [
          {
           "courseName": "Core Java",
-          "startDate": "16-MAY-2022",
-          "time": "08:30 AM",
+          "startDate": "03-JUNE-2024",
+          "time": "12:00 PM",
           "type": "WeekDay Offline Ongoing",
           "facultyName": "Devendra",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "17-JUNE-2024",
+          "time": "08:00 AM",
+          "type": "WeekDay Offline Ongoing",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "19-AUG-2024",
+          "time": "09:30 AM",
+          "type": "WeekDay Offline Ongoing",
+          "facultyName": "Devendra",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "12-SEP-2024",
+          "time": "11:30 AM",
+          "type": "WeekDay Offline Ongoing",
+          "facultyName": "Omkar",
+          "placed": 0
+        },
+        {
+          "courseName": "Core Java",
+          "startDate": "05-AUG-2024",
+          "time": "06:30 PM",
+          "type": "WeekDay Offline Ongoing",
+          "facultyName": "Chethan",
           "placed": 0
         }
       ]
